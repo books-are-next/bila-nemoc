@@ -2,17 +2,18 @@
 outputs: meta
 slug: book
 
-languageCode: en-US
+languageCode: cs
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  published: 2020
+  title: "Bílá nemoc"
+  author: "Karel Čapek"
+  published: 2021
   keywords: []
 chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - predmluva.html
+  - osoby.html
+  - jednani-druhe.html
+  - jednani-prvni.html
+  - jednani-treti.html
 static:
   - style
   - scripts
@@ -20,4 +21,3 @@ static:
   - images
   - favicon.png
 ---
-
