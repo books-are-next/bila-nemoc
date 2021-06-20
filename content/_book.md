@@ -11,8 +11,8 @@ meta:
 chapters:
   - predmluva.html
   - osoby.html
-  - jednani-druhe.html
   - jednani-prvni.html
+  - jednani-druhe.html
   - jednani-treti.html
 static:
   - style
