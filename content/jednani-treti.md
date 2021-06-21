@@ -781,8 +781,7 @@ Maršál!
 
 _(Houkání auta, které si nemůže zástupem prorazit cestu.)_
 
-**Dr.
-Galén** _(vyběhne s kufříkem v ruce)_: Doběhnu pěšky…
+**Dr. Galén** _(vyběhne s kufříkem v ruce)_: Doběhnu pěšky…
 Dovolte prosím…
 Prosím vás, pusťte mě…
 někdo mě čeká…
@@ -790,8 +789,7 @@ někdo mě čeká…
 **Syn**: Občané, volejte: Ať žije maršál!
 Ať žije válka!
 
-**Dr.
-Galén**: Ne!
+**Dr. Galén**: Ne!
 Válka ne!
 Nesmí být žádná válka!
 Poslyšte, ne, válka nesmí být!
@@ -801,21 +799,18 @@ Poslyšte, ne, válka nesmí být!
 – Zbabělec!
 – Mažte ho!
 
-**Dr.
-Galén**: Musí být mír!
+**Dr. Galén**: Musí být mír!
 Pusťte mne – Já jdu k maršálovi –
 
 **Výkřiky**: Urazil maršála!
 – Na lucernu!
 – Zabte ho!
 
-_(Hlučící zástup se zavře kolem Dr.
-Galéna.
+_(Hlučící zástup se zavře kolem Dr. Galéna.
 Zmatená vřava.)_
 
 _(Zástup se rozestupuje.
-Na zemi leží Dr.
-Galén a jeho kufřík.)_
+Na zemi leží Dr. Galén a jeho kufřík.)_
 
 **Syn** _(kopne do něho)_: Vstávej, potvoro!
 Koukej mazat, nebo –

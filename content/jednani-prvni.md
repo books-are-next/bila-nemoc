@@ -228,22 +228,19 @@ _(Zaklepání.)_
 
 **Dvorní rada** _(vezme péro a píše; po chvilce)_: Dále!
 
-_(Vejde Dr.
-Galén a zůstane v rozpacích stát u dveří.)_
+_(Vejde Dr. Galén a zůstane v rozpacích stát u dveří.)_
 
 **Dvorní rada** _(píše, aniž zvedl hlavu.
 Po delší chvíli)_: Necháváte mě čekat, pane kolego.
 
-**Dr.
-Galén** _(zakoktá se)_: Promiňte, pane dvorní rado…
+**Dr. Galén** _(zakoktá se)_: Promiňte, pane dvorní rado…
 nechtěl jsem vyrušovat…
 Mé jméno je doktor Galén…
 
 **Dvorní rada** _(píše)_: To vím.
 Přejete si, pane doktore Galéne –?
 
-**Dr.
-Galén**: Já…
+**Dr. Galén**: Já…
 já mám totiž pokladenskou praxi, pane dvorní rado…
 jak se říká, praxi chudých, že ano…
 a tu mám příležitost…
@@ -255,30 +252,26 @@ bují tolik chorob…
 **Dvorní rada**: Jak?
 Bují?
 
-**Dr.
-Galén**: Ano, šíří se.
+**Dr. Galén**: Ano, šíří se.
 
 **Dvorní rada**: Ah tak!
 Lékař nemá mluvit květnatě, pane kolego.
 
-**Dr.
-Galén**: Ano prosím.
+**Dr. Galén**: Ano prosím.
 Hlavně v poslední době…
 když se tak šíří ta bílá nemoc –
 
 **Dvorní rada**: Morbus Tshengi, pane kolego.
 Vědecký pracovník se vyjadřuje přesně a stručně.
 
-**Dr.
-Galén**: – a když člověk vidí tu bídu…
+**Dr. Galén**: – a když člověk vidí tu bídu…
 jak se ti malomocní zaživa rozpadají…
 uprostřed rodiny…
 ten hrozný zápach, že ano…
 
 **Dvorní rada**: Máte užívat prostředků odstraňujících zápach, pane kolego.
 
-**Dr.
-Galén**: Ano, ale člověk by chtěl ty lidi zachránit!
+**Dr. Galén**: Ano, ale člověk by chtěl ty lidi zachránit!
 Já měl sta případů…
 strašných případů, pane dvorní rado; a když jsem tak nad nimi stál…
 s holýma rukama…
@@ -287,8 +280,7 @@ přímo zoufalý…
 **Dvorní rada**: To je chyba, pane kolego.
 Lékař nemá být nikdy zoufalý.
 
-**Dr.
-Galén**: Když je to taková hrůza, pane dvorní rado!
+**Dr. Galén**: Když je to taková hrůza, pane dvorní rado!
 A tu jsem si říkal, že se něco musí stát…
 že něco musím zkusit, abych tu nestál tak nadarmo.
 Pravda, sehnal jsem si celou literaturu o té nemoci, ale pan dvorní rada promine…
@@ -297,20 +289,17 @@ tam to prosím není…
 
 **Dvorní rada**: Co tam není?
 
-**Dr.
-Galén**: Ta pravá cesta prosím.
+**Dr. Galén**: Ta pravá cesta prosím.
 
 **Dvorní rada** _(položí péro)_: A vy ji znáte, co?
 
-**Dr.
-Galén**: Ano.
+**Dr. Galén**: Ano.
 Myslím totiž, že ji znám.
 
 **Dvorní rada**: Aha, vy si to myslíte.
 Máte asi svou vlastní teorii o Čengově nemoci, ne?
 
-**Dr.
-Galén**: Ano prosím.
+**Dr. Galén**: Ano prosím.
 Svou vlastní teorii.
 
 **Dvorní rada**: Tak to mi stačí, pane kolego Galéne.
@@ -320,8 +309,7 @@ Ale praktický lékař se má po mém soudu držet raději osvědčených prost�
 Jak k tomu vaši klienti přijdou, abyste na nich zkoušel nějaké své pochybné nápady?
 Na to jsou kliniky, pane kolego.
 
-**Dr.
-Galén**: Ale právě proto jsem –
+**Dr. Galén**: Ale právě proto jsem –
 
 **Dvorní rada**: Ještě jsem nedomluvil, pane doktore Galéne.
 Řekl jsem vám, že mám bohužel k dispozici jenom tři minuty.
@@ -330,27 +318,23 @@ To je všechno, pane kolego.
 Těšilo mě.
 (Chápe se pera.)
 
-**Dr.
-Galén**: Ale já…
+**Dr. Galén**: Ale já…
 pane dvorní rado…
 
 **Dvorní rada**: Přejete si snad ještě něco?
 
-**Dr.
-Galén**: Ano.
+**Dr. Galén**: Ano.
 Já totiž mohu bílou nemoc vyléčit.
 
 **Dvorní rada** _(píše)_: To už jste asi dvanáctý člověk, který s tím ke mně přišel.
 Dokonce bylo mezi nimi několik lékařů.
 
-**Dr.
-Galén**: Ale já už jsem své metody prakticky užil…
+**Dr. Galén**: Ale já už jsem své metody prakticky užil…
 na několika stech případů, že ano, a – byly jisté výsledky –
 
 **Dvorní rada**: Kolik procent uzdravení?
 
-**Dr.
-Galén**: Asi šedesát.
+**Dr. Galén**: Asi šedesát.
 U dvaceti dalších si nejsem ještě jist –
 
 **Dvorní rada** _(položil pero)_: Člověče, kdybyste byl řekl sto procent, dal bych vás hned vyvést jako blázna nebo šarlatána.
@@ -359,29 +343,25 @@ Co mám s vámi dělat?
 To by znamenalo slávu, báječnou klientelu, Nobelovu cenu a třeba i univerzitní stolici, ne?
 To byste byl víc než Pasteur, víc než Koch, víc než Lilienthal – Pravda, může to člověku poplést hlavu; jenže takových zklamání už bylo –
 
-**Dr.
-Galén**: Já bych svou metodu vyzkoušel na vaší klinice, pane dvorní rado.
+**Dr. Galén**: Já bych svou metodu vyzkoušel na vaší klinice, pane dvorní rado.
 
 **Dvorní rada**: Na mé klinice?
 To je ovšem dětinství.
 Vy jste – původem cizinec, ne?
 
-**Dr.
-Galén**: Ano prosím.
+**Dr. Galén**: Ano prosím.
 Původem Řek, z Pergama.
 
 **Dvorní rada**: Tak vidíte.
 Já přece nemohu pustit cizince na státní kliniku Lilienthalovu!
 
-**Dr.
-Galén**: Ale já jsem zdejším občanem…
+**Dr. Galén**: Ale já jsem zdejším občanem…
 už od dětství…
 
 **Dvorní rada**: Ano, ale ten původ, pane kolego!
 Ten původ!
 
-**Dr.
-Galén**: Lilienthal byl taky…
+**Dr. Galén**: Lilienthal byl taky…
 původem cizinec, že ano…
 
 **Dvorní rada**: Upozorňuju vás, pane, že dvorní rada řádný profesor doktor Lilienthal byl mým tchánem.
@@ -391,8 +371,7 @@ To snad víte sám.
 nějakého pokladenského lékaře.
 Promiňte!
 
-**Dr.
-Galén**: Mne by tu nechal pracovat, pane dvorní rado.
+**Dr. Galén**: Mne by tu nechal pracovat, pane dvorní rado.
 Já jsem byl kdysi jeho asistentem –
 
 **Dvorní rada** _(vyskočí)_: Vy jste byl – Člověče, proč jste to neřekl hned?
@@ -400,16 +379,14 @@ Prosím, kolego, sedněte si – Jen žádné okolky, Galéne.
 Koukejme, tak vy jste byl u tchána asistentem!
 Zvláštní, nevzpomínám si, že by se byl někdy o vás zmínil!
 
-**Dr.
-Galén** _(na kraji židle)_: On…
+**Dr. Galén** _(na kraji židle)_: On…
 on mi totiž říkal doktor Dětina.
 
 **Dvorní rada**: Propána, tak vy jste Dětina!
 Dětina, ano – můj nejlepší žák, říkával Lilienthal; prý škoda doktora Dětiny!
 – Člověče, proč jste u něho nezůstal?
 
-**Dr.
-Galén**: To byly takové věci, pane dvorní rado…
+**Dr. Galén**: To byly takové věci, pane dvorní rado…
 Hlavně…
 chtěl jsem se oženit…
 a jako asistent bych rodinu neuživil, že ano –
@@ -419,14 +396,12 @@ Já vždycky říkám svým žákům: chcete-li dělat vědu, nežeňte se; a kd
 Vědě se musí obětovat soukromý život.
 – Kouříte, Galéne?
 
-**Dr.
-Galén**: Ne, děkuju, já – Já mám totiž anginu pectoris…
+**Dr. Galén**: Ne, děkuju, já – Já mám totiž anginu pectoris…
 
 **Dvorní rada**: Nunu, snad nebude tak zle!
 Ukažte, kamaráde, já bych se podíval –
 
-**Dr.
-Galén**: Děkuju, pane dvorní rado, ale…
+**Dr. Galén**: Děkuju, pane dvorní rado, ale…
 na to teď nemám pomyšlení.
 Já bych prosil, kdybych směl na vaší klinice…
 aplikovat svou metodu…
@@ -438,49 +413,42 @@ Nerado by se to vidělo, kolego.
 Ale že to jste vy, tchánův nejmilejší žák – počkejte, já vám něco řeknu: povězte nám, v čem záleží vaše metoda, a my ji vezmeme v úvahu, případně ji klinicky vyzkoušíme.
 Já jenom zařídím, aby nás teď nikdo nerušil – (Sahá po telefonu.)
 
-**Dr.
-Galén**: Prosím za prominutí, pane dvorní rado, ale já…
+**Dr. Galén**: Prosím za prominutí, pane dvorní rado, ale já…
 dokud to nebude klinicky vyzkoušeno…
 neřeknu nikomu, jak léčím bílou nemoc.
 Prosím, já opravdu nemohu.
 
 **Dvorní rada**: Ani mně ne?
 
-**Dr.
-Galén**: Nikomu prosím.
+**Dr. Galén**: Nikomu prosím.
 To by skutečně nešlo.
 
 **Dvorní rada**: Myslíte to vážně?
 
-**Dr.
-Galén**: Docela vážně, pane dvorní rado.
+**Dr. Galén**: Docela vážně, pane dvorní rado.
 
 **Dvorní rada**: Nu, tak se nedá nic dělat.
 Promiňte, Galéne, to by bylo proti klinickým pravidlům a proti – jak bych to řekl –
 
-**Dr.
-Galén**: – proti vaší vědecké odpovědnosti, já vím.
+**Dr. Galén**: – proti vaší vědecké odpovědnosti, já vím.
 Ale já mám prosím své důvody…
 
 **Dvorní rada**: Jaké?
 
-**Dr.
-Galén**: Pane dvorní rado, je mi hrozně líto…
+**Dr. Galén**: Pane dvorní rado, je mi hrozně líto…
 ale já bych je řekl až později.
 
 **Dvorní rada**: Nu, jak chcete.
 Za těch okolností uděláme za věcí tečku, že?
 Přesto mne těší, že jsem vás osobně poznal, doktore Dětino.
 
-**Dr.
-Galén**: Poslyšte, nedělejte to!
+**Dr. Galén**: Poslyšte, nedělejte to!
 Vy byste mne měl pustit na kliniku, pane dvorní rado!
 To byste měl udělat!
 
 **Dvorní rada**: Proč?
 
-**Dr.
-Galén**: Pane dvorní rado, já za svůj prostředek ručím!
+**Dr. Galén**: Pane dvorní rado, já za svůj prostředek ručím!
 Čestné slovo!
 Podívejte se, já nemám ani jednu recidivu…
 A tady mám dopisy kolegů…
@@ -490,42 +458,36 @@ Prosím račte se podívat, pane dvorní rado…
 
 **Dvorní rada**: Nemám zájmu.
 
-**Dr.
-Galén**: Bože to je škoda…
+**Dr. Galén**: Bože to je škoda…
 Tak abych šel, že ano?
 
 **Dvorní rada** _(vstane)_: Ano.
 Je mi líto.
 
-**Dr.
-Galén** _(otálí u dveří)_: Taková hrozná nemoc…
+**Dr. Galén** _(otálí u dveří)_: Taková hrozná nemoc…
 Třeba jednou pan dvorní rada sám…
 
 **Dvorní rada**: Co?
 
-**Dr.
-Galén**: Nic, já jen…
+**Dr. Galén**: Nic, já jen…
 Snad by i pan dvorní rada mohl toho léku jednou potřebovat.
 
 **Dvorní rada**: To jste nemusel říkat, Galéne!
 – (Přechází.) Šeredná nemoc, člověče, příliš šeredná nemoc.
 Nechtěl bych se zaživa rozpadat.
 
-**Dr.
-Galén**: Pak může pan dvorní rada na sobě použít prostředků odstraňujících zápach.
+**Dr. Galén**: Pak může pan dvorní rada na sobě použít prostředků odstraňujících zápach.
 
 **Dvorní rada**: Děkuju!
 – Ukažte ty dopisy!
 
-**Dr.
-Galén**: Prosím, pane dvorní rado –
+**Dr. Galén**: Prosím, pane dvorní rado –
 
 **Dvorní rada** _(čte dopisy)_: Hm.
 (Odkašle.) Nono – Doktor Stradella, to je můj žák, ne?
 Takový dlouhý, ne?
 
-**Dr.
-Galén**: Ano, pane dvorní rado.
+**Dr. Galén**: Ano, pane dvorní rado.
 Velmi dlouhý.
 
 **Dvorní rada** _(čte dál)_: Safra!
@@ -533,35 +495,30 @@ Velmi dlouhý.
 – Poslyšte, Galéne, tak mě napadá – Že to jste vy, já bych zkusil vaši metodu sám na několika případech.
 Víc přece nemůžete žádat, co?
 
-**Dr.
-Galén**: Ne, ale…
+**Dr. Galén**: Ne, ale…
 Já vím, že by to pro mne byla ohromná čest, ale…
 
 **Dvorní rada**: – ale vy svou metodu chcete až na další aplikovat sám, že?
 
-**Dr.
-Galén**: Ano, pane dvorní rado.
+**Dr. Galén**: Ano, pane dvorní rado.
 Já bych ji rád…
 na klinice…
 prováděl sám.
 
 **Dvorní rada**: A pak ji budete publikovat?
 
-**Dr.
-Galén**: Ano, totiž…
+**Dr. Galén**: Ano, totiž…
 za jistých podmínek, že ano…
 
 **Dvorní rada**: Jakých podmínek?
 
-**Dr.
-Galén**: – – Já bych je ohlásil později, pane dvorní rado.
+**Dr. Galén**: – – Já bych je ohlásil později, pane dvorní rado.
 
 **Dvorní rada** _(usedne za stůl)_: Rozumím.
 Tedy vy byste chtěl, aby má klinika jenom ověřila vaši metodu, ale její další použití byste si vyhradil pro sebe.
 Asi tak si to představujete, ne?
 
-**Dr.
-Galén**: Ano, pane dvorní rado.
+**Dr. Galén**: Ano, pane dvorní rado.
 Totiž…
 
 **Dvorní rada**: Počkejte.
@@ -569,8 +526,7 @@ Je to ovšem nesmírná drzost, žádat něco takového od kliniky Lilienthalovy
 Já sice chápu, že každý lékař chce něco vydělat na svém umění; ale dělat z léčebného postupu své obchodní tajemství, to není jednání hodné lékaře, nýbrž pokoutního dryáčníka, šarlatána a mastičkáře.
 Předně je to, pane kolego, nelidské k trpícímu lidstvu, a za druhé –
 
-**Dr.
-Galén**: Ale já, pane dvorní rado –
+**Dr. Galén**: Ale já, pane dvorní rado –
 
 **Dvorní rada**: Okamžik prosím.
 Za druhé je to krajně nekolegiální k druhým lékařům.
@@ -626,8 +582,7 @@ Je to mé výslovné přání.
 
 _(Asistent zmizí.)_
 
-**Dr.
-Galén**: Ani nevím…
+**Dr. Galén**: Ani nevím…
 pane dvorní rado…
 jak vám mám poděkovat…
 
@@ -638,23 +593,20 @@ Chcete-li, můžete se hned podívat na svou třináctku.
 (Bere telefon.) Vrchní sestro, uvedete na třináctku pana doktora Galéna.
 – (Položí sluchátko.) Kolik času budete potřebovat, pane kolego?
 
-**Dr.
-Galén**: Stačí…
+**Dr. Galén**: Stačí…
 šest neděl.
 
 **Dvorní rada**: Tak?
 Zdá se, pane doktore Galéne, že chcete čarovat.
 Poroučím se vám.
 
-**Dr.
-Galén** _(couvá ke dveřím)_: Jsem vám opravdu…
+**Dr. Galén** _(couvá ke dveřím)_: Jsem vám opravdu…
 nesmírně zavázán, pane dvorní rado –
 
 **Dvorní rada**: Mnoho štěstí!
 (Bere pero.)
 
-_(Dr.
-Galén se rozpačitě vysouká ven.)_
+_(Dr. Galén se rozpačitě vysouká ven.)_
 
 **Dvorní rada** _(uhodí perem)_: Mizerný výdělkář!
 (Vstane a jde k zrcadlu, prohlíží si pozorně obličej.) Ne, nic.
@@ -961,24 +913,20 @@ _(Odcházejí za hloučkem.)_
 
 **První asistent**: Kamaráde, tady jsou peníze a styky – Hergot, kdybych já dostal takového pacienta!
 
-_(Z třináctky vystrčí hlavu Dr.
-Galén.)_
+_(Z třináctky vystrčí hlavu Dr. Galén.)_
 
-**Dr.
-Galén**: Už jsou pryč?
+**Dr. Galén**: Už jsou pryč?
 
 **Druhý asistent**: Potřebujete něčeho, pane doktore?
 
-**Dr.
-Galén**: Ne, ne, děkuju, pane kolego…
+**Dr. Galén**: Ne, ne, děkuju, pane kolego…
 děkuju uctivě…
 
 **První asistent**: Člověče, pojď!
 Pan doktor Galén by tu chtěl být raději sám.
 
 _(Oba odejdou.
-Dr.
-Galén se rozhlédne, a když vidí, že je sám, vytáhne z kapsy housku a žvýká, opřen o dveře.)_
+Dr. Galén se rozhlédne, a když vidí, že je sám, vytáhne z kapsy housku a žvýká, opřen o dveře.)_
 
 _(Vrací se Dvorní rada.)_
 
@@ -987,15 +935,13 @@ Musím vám ze srdce blahopřát.
 Máme nádherný úspěch, kolego.
 Velkolepý úspěch!
 
-**Dr.
-Galén** _(polyká)_: Ještě…
+**Dr. Galén** _(polyká)_: Ještě…
 ještě snad musíme vyčkat, pane dvorní rado…
 
 **Dvorní rada**: Ale ovšem, doktore Dětino, ale ovšem!
 Nicméně výsledky jsou tak překvapující – Abych nezapomněl, dostanete jednoho privátního pacienta.
 
-**Dr.
-Galén**: Ale já…
+**Dr. Galén**: Ale já…
 já totiž teď soukromou praxi nevedu…
 
 **Dvorní rada**: Já vím, kolego, já vím, a chválím vás za to.
@@ -1003,39 +949,33 @@ Věnovat se jenom vědecké práci, správně.
 Ale tento případ jsem vám zvlášť vybral.
 Prima klient, milý Galéne.
 
-**Dr.
-Galén**: Já jsem vám přece dal čestné slovo, pane dvorní rado,…
+**Dr. Galén**: Já jsem vám přece dal čestné slovo, pane dvorní rado,…
 že nepoužiju své metody…
 jenom tady na třináctce…
 
 **Dvorní rada**: Správně, kolego.
 Ale pro tento jediný případ vás toho čestného slova zprostím.
 
-**Dr.
-Galén**: Ale já…
+**Dr. Galén**: Ale já…
 já na něm trvám, pane dvorní rado.
 
 **Dvorní rada**: Co tím míníte, pane kolego?
 
-**Dr.
-Galén**: Že nebudu nikoho léčit, pokud tady nebudu hotov, že ano…
+**Dr. Galén**: Že nebudu nikoho léčit, pokud tady nebudu hotov, že ano…
 
 **Dvorní rada**: Upozorňuji vás, Galéne, že jsem přijal osobní závazek.
 
-**Dr.
-Galén**: Je mi hrozně líto, ale…
+**Dr. Galén**: Je mi hrozně líto, ale…
 
 **Dvorní rada**: Domnívám se, pane kolego, že na své klinice jsem pánem já.
 A úkoly tady přiděluju já.
 
-**Dr.
-Galén**: Kdyby pan dvorní rada toho svého pacienta položil na třináctku, pak ovšem…
+**Dr. Galén**: Kdyby pan dvorní rada toho svého pacienta položil na třináctku, pak ovšem…
 samozřejmě…
 
 **Dvorní rada**: Kamže, člověče?
 
-**Dr.
-Galén**: Na třináctku, na zem.
+**Dr. Galén**: Na třináctku, na zem.
 Já tam už nemám volné lůžko.
 
 **Dvorní rada**: Ale to je vyloučeno, Galéne.
@@ -1044,8 +984,7 @@ Ten by raději umřel, než by ležel mezi těmi tady – Moc bohatý pán, kama
 To nejde.
 Tak, prosím vás, doktore Dětino, žádné hlouposti –
 
-**Dr.
-Galén**: Já budu léčit jenom na třináctce, pane dvorní rado.
+**Dr. Galén**: Já budu léčit jenom na třináctce, pane dvorní rado.
 Já jsem dal své slovo, že ano…
 Kdyby pan dvorní rada dovolil…
 ti páni mě tak zdrželi…
@@ -1053,8 +992,7 @@ Smím jít k svým pacientům?
 
 **Dvorní rada**: Můžete jít k čertu, vy – vy –
 
-**Dr.
-Galén**: Děkuju uctivě.
+**Dr. Galén**: Děkuju uctivě.
 (Vklouzne do třináctky.)
 
 **Dvorní rada**: – – Zatracený idiot!
@@ -1160,7 +1098,7 @@ _(Vejde do dvanáctky.
 Celá svita za ním.)_
 
 _(Okamžik ticho, je slyšet jen hlas Dvorního rady z dvanáctky.
-Po chvilce vrávorá ven Generál, podpírán Druhým asistentem.)_
+Po chvilce vrávorá ven Generál, podpírán druhým asistentem.)_
 
 **Generál** _(sténá)_: Příšerné!
 Příšerné!
@@ -1221,14 +1159,12 @@ Ticho, zas jen tlumený hlas Dvorního rady.)_
 **Úřední pán** _(vynoří se z kulis)_: Co je?
 Kdo je to?
 
-_(Dva muži v ošetřovatelských pláštích vlekou Dr.
-Galéna za ruce.)_
+_(Dva muži v ošetřovatelských pláštích vlekou Dr. Galéna za ruce.)_
 
 **Úřední pán**: Kdo ho sem vpustil?
 – Člověče, co tu chcete?
 
-**Dr.
-Galén**: Pusťte mě k mým nemocným!
+**Dr. Galén**: Pusťte mě k mým nemocným!
 
 _(Vrací se Druhý asistent s lahví kolínské vody.)_
 
@@ -1244,8 +1180,7 @@ Pracuje tady na třináctce.
 **Úřední pán**: Promiňte, pane doktore – Pusťte ho!
 – Proč jste nepřišel před devátou hodinou, jako druzí lékaři?
 
-**Dr.
-Galén** _(hladí si paže)_: Já…
+**Dr. Galén** _(hladí si paže)_: Já…
 já jsem neměl kdy…
 já jsem dělal lék pro své nemocné –
 
@@ -1255,8 +1190,7 @@ já jsem dělal lék pro své nemocné –
 Teď musíte zůstat se mnou, pane doktore.
 Nemůžete dovnitř, dokud neodejde pan maršál.
 
-**Dr.
-Galén**: Ale já přece…
+**Dr. Galén**: Ale já přece…
 
 **Úřední pán**: Račte jít se mnou!
 (Odvádí ho do kulis.)
@@ -1297,22 +1231,19 @@ Pozor!
 Dvojstup a uzavřít průvod!
 (Muži v ošetřovatelských pláštích jdou za svitou.)
 
-**Dr.
-Galén**: Už smím dovnitř?
+**Dr. Galén**: Už smím dovnitř?
 
 **Úřední pán**: Okamžiček, pane doktore, jen co pan maršál odjede.
 (Jde ke dvanáctce a strčí tam nos; honem zase zavře.) Hergot!
 A to tam chodí doktoři?
 
-**Dr.
-Galén**: Co?
+**Dr. Galén**: Co?
 Ano, ovšem.
 
 **Úřední pán**: Nic naplat, pane doktore, je to veliký muž.
 Je to hrdina.
 
-**Dr.
-Galén**: Kdo?
+**Dr. Galén**: Kdo?
 
 **Úřední pán**: Náš maršál.
 Vydržel tam dvě minuty.
@@ -1324,8 +1255,7 @@ _(Siréna auta.)_
 Tak už můžete dovnitř, pane doktore.
 A promiňte, že jsme vás na chvíli zatkli –
 
-**Dr.
-Galén**: To nevadí, těšilo mě velice – (Zaleze do třináctky.)
+**Dr. Galén**: To nevadí, těšilo mě velice – (Zaleze do třináctky.)
 
 _(Přiběhne Druhý asistent.)_
 
@@ -1339,11 +1269,11 @@ Ani to tak dlouho netrvalo.
 **Hlas druhého asistenta**: Tudy, pánové, tudy.
 Pan dvorní rada tu bude za okamžik.
 
-_(Přichází hlouček žurnalistů s Druhým asistentem.)_
+_(Přichází hlouček žurnalistů s druhým asistentem.)_
 
 **Druhý asistent**: – Tady, pánové, na čísle dvanáct byste mohli vidět, jak vypadá takzvaná bílá nemoc, když není léčena podle naší metody; ale já pánům nedoporučuju…
 
-**Hlouček NovinářŮ** _(vniká do dvanáctky, ale ihned zděšeně couvá)_: Co je tam?
+**Hlouček Novinářů** _(vniká do dvanáctky, ale ihned zděšeně couvá)_: Co je tam?
 – Zpátky!
 – Pusťte mne!
 – To je strašné!
@@ -1368,7 +1298,7 @@ Tak honem, kde je máte?
 
 **Druhý asistent** _(ve dveřích třináctky)_: Prosím, pánové; pan dvorní rada právě přišel.
 
-**Hlouček NovinářŮ** _(vychází na chodbu)_: To je zázrak!
+**Hlouček Novinářů** _(vychází na chodbu)_: To je zázrak!
 – Úžasné!
 – Skvělé!
 
@@ -1392,8 +1322,7 @@ Nyní, když je nalezen bezpečný prostředek proti takzvané bílé nemoci, m�
 že to byla nejhroznější choroba dějin, horší než středověký mor – Teď už není třeba zamlčovat dosah té hrůzy.
 Jsem hrd, pánové, že palmu tohoto úspěchu si odnáší náš národ – a že ho bylo dobyto právě na půdě kliniky mého velkého učitele a předchůdce Lilienthala.
 
-_(Dr.
-Galén stojí unaveně ve dveřích třináctky.)_
+_(Dr. Galén stojí unaveně ve dveřích třináctky.)_
 
 **Dvorní rada**: Pojďte sem, Galéne!
 Pánové, to je taky jeden ze zasloužilých spolubojovníků.
@@ -1422,16 +1351,14 @@ Poroučím se, pánové; kdybyste něco potřebovali, jsem vám vždycky k služ
 
 **Novinář**: Tak bychom byli hotovi, ne?
 
-**Dr.
-Galén** _(vystoupí vpřed)_: Prosím, pánové…
+**Dr. Galén** _(vystoupí vpřed)_: Prosím, pánové…
 ještě snad chvilinku…
 Prosím vás, vyřiďte, že já, doktor Galén…
 doktor chudých…
 
 **Novinář**: Komu to máme vyřídit?
 
-**Dr.
-Galén**: Komu?
+**Dr. Galén**: Komu?
 Všem králům a vladařům na světě…
 Napište jim, že bych je prosil…
 Já byl totiž na vojně, pánové, jako doktor…
@@ -1440,8 +1367,7 @@ Prosím vás, napište jim to!
 
 **Novinář**: Myslíte, že vás poslechnou?
 
-**Dr.
-Galén**: Ano, totiž…
+**Dr. Galén**: Ano, totiž…
 Řekněte jim, že jinak zajdou na malomocenství, že ano…
 Ten lék proti Čengově nemoci, to je můj lék, rozumíte?
 A já jej nedám, dokud…
@@ -1458,8 +1384,7 @@ vůbec všechny…
 
 **Jiný novinář**: Vy byste nechal lidi takhle umírat?
 
-**Dr.
-Galén**: A vy byste je nechali zabíjet?
+**Dr. Galén**: A vy byste je nechali zabíjet?
 Proč prosím…
 Když mohou lidé zabíjet olovem a plynem,…
 nač my doktoři máme někoho zachraňovat, ne?
@@ -1476,8 +1401,7 @@ To je prostě lékařská povinnost, odstranit válku!
 
 **Novinář**: Prosím vás, jak ji chcete odstranit?
 
-**Dr.
-Galén**: Jak?
+**Dr. Galén**: Jak?
 Prostě…
 ať se zřeknou válečného násilí, a já jim za to dám ten lék proti bílé nemoci, ne?
 
@@ -1485,8 +1409,7 @@ _(Druhý asistent odběhne.)_
 
 **Novinář**: Jak si představujete, že byste přinutil vlády celého světa –
 
-**Dr.
-Galén**: Ano, jak…
+**Dr. Galén**: Ano, jak…
 To je právě to těžké, že?
 Já vím, že se mnou nebudou jednat; ale když vy to napíšete v novinách – Napište, že ten lék nedostane žádný národ, dokud se nezaváže,…
 že…
@@ -1495,8 +1418,7 @@ Já vím, že se mnou nebudou jednat; ale když vy to napíšete v novinách –
 
 **Novinář**: Ani kdyby se musel bránit?
 
-**Dr.
-Galén**: Bránit se…
+**Dr. Galén**: Bránit se…
 Poslyšte, já bych se taky bránil; kdyby na nás někdo šel, tak…
 budu střílet, že ano…
 Ale proč by se nemohly zrušit útočné zbraně…
@@ -1505,8 +1427,7 @@ proč by se nemohlo ve všech státech omezit zbrojení –
 **Jiný novinář**: Vyloučeno.
 To dnes žádný stát neudělá.
 
-**Dr.
-Galén**: Ne?
+**Dr. Galén**: Ne?
 A to…
 to teda nechá své lidi tak hrozně umírat?
 Co?
@@ -1522,23 +1443,20 @@ všichni se budou bát…
 **Novinář**: Něco na tom je.
 Muselo by se počítat s veřejností –
 
-**Dr.
-Galén**: Ano.
+**Dr. Galén**: Ano.
 A vy jim řeknete: Nebojte se, je tady lék – Přimějte své vladaře, aby složili slib věčného míru…
 aby uzavřeli věčnou smlouvu se všemi národy,…
 nu a bude po bílé nemoci, že ano?
 
 **Novinář**: A co když na to žádná vláda nepřistoupí?
 
-**Dr.
-Galén**: Poslyšte, to by mně bylo hrozně líto…
+**Dr. Galén**: Poslyšte, to by mně bylo hrozně líto…
 To bych pak svůj lék nemohl vydat.
 Ne prosím, to bych nemohl.
 
 **Novinář**: A co byste s ním dělal?
 
-**Dr.
-Galén**: Co?
+**Dr. Galén**: Co?
 Já?
 Jako doktor…
 musím přece léčit, ne?
@@ -1546,31 +1464,28 @@ Léčil bych své chudé…
 
 **Novinář**: Proč jenom chudé?
 
-**Dr.
-Galén**: Protože jich je mnoho.
+**Dr. Galén**: Protože jich je mnoho.
 To by byla ohromná praxe, člověče!
 Víte, mohl bych aspoň dokázat…
 na spoustě případů, že se dá bílá nemoc vyléčit.
 
 **Novinář**: A bohatého byste do léčení nevzal?
 
-**Dr.
-Galén**: Je mi líto, pane,…
+**Dr. Galén**: Je mi líto, pane,…
 ale to bych nemohl.
 Bohatí – Bohatí mají víc vlivu, že ano – Budou-li mocní a bohatí opravdu chtít mír…
 Na ně se víc dá, víte?
 
 **Novinář**: Nezdá se vám, že je to k těm bohatým – trochu nespravedlivé?
 
-**Dr.
-Galén**: Je, pane.
+**Dr. Galén**: Je, pane.
 Já vím.
 Ale nezdá se vám, že je to k těm chudým – taky trochu nespravedlivé, že jsou chudí?
 Koukejte se, vždycky umíralo o tolik víc chudých, že ano – a nemuselo by to být, pane, nemuselo by to být!
 Každý má právo na život, že?
 Člověče, kdyby se dalo na špitály tolik jako na válečné lodi –
 
-_(Rychle přichází Dvorní rada s Druhým asistentem.)_
+_(Rychle přichází Dvorní rada s druhým asistentem.)_
 
 **Dvorní rada**: Prosím pány novináře, aby opustili kliniku.
 Kolega Galén nervově ochuravěl.
@@ -1589,52 +1504,45 @@ Měl bych vás dát na místě sebrat pro pobuřování, rozumíte?
 Naštěstí vás jako lékař omlouvám; jste asi přepracován.
 Pojďte se mnou, Dětino!
 
-**Dr.
-Galén**: Proč?
+**Dr. Galén**: Proč?
 
 **Dvorní rada**: Pěkně mi povíte chemickou formuli a přesné použití svého léku, a pak si půjdete odpočinout.
 Máte toho zapotřebí.
 
-**Dr.
-Galén**: Pane dvorní rado, já jsem ohlásil své podmínky, že ano…
+**Dr. Galén**: Pane dvorní rado, já jsem ohlásil své podmínky, že ano…
 Jinak…
 
 **Dvorní rada**: Jinak co?
 Nu?
 Co bude?
 
-**Dr.
-Galén**: Prosím za prominutí, ale…
+**Dr. Galén**: Prosím za prominutí, ale…
 já jinak svůj lék nemohu vydat, pane dvorní rado.
 
 **Dvorní rada**: Buď jste blázen, nebo vlastizrádce, Galéne!
 Žádám vás důtklivě, abyste se choval jako lékař.
 Vaše povinnost je pomáhat nemocným; po ostatním vám nic není.
 
-**Dr.
-Galén**: Ale já bych jako lékař chtěl, aby se už lidé nezabíjeli –
+**Dr. Galén**: Ale já bych jako lékař chtěl, aby se už lidé nezabíjeli –
 
 **Dvorní rada**: Ale já na půdě své kliniky takové názory zakazuju!
 My nesloužíme žádné humanitě, nýbrž vědě – a svému národu, pane kolego.
 Nezapomínejte, že jste na státním ústavu.
 
-**Dr.
-Galén**: Ale proč, poslyšte – Proč by náš stát nemohl uzavřít věčný mír…
+**Dr. Galén**: Ale proč, poslyšte – Proč by náš stát nemohl uzavřít věčný mír…
 
 **Dvorní rada**: Protože nemůže a nesmí.
 Pan Galén jako cizinec původem nemá patrně dost jasné ponětí o tom, co je poslání a budoucnost našeho národa.
 A dost toho nesmyslu!
 Nyní vás žádám naposledy, doktore Galéne, abyste mně jako hlavě kliniky oznámil formuli svého léku.
 
-**Dr.
-Galén**: Je mi hrozně líto, pane dvorní rado, ale…
+**Dr. Galén**: Je mi hrozně líto, pane dvorní rado, ale…
 to prosím nemohu udělat.
 
 **Dvorní rada**: – – – Jděte!
 A na mou kliniku už nevkročíte!
 
-**Dr.
-Galén**: …Prosím, pane dvorní rado.
+**Dr. Galén**: …Prosím, pane dvorní rado.
 Ale je mi opravdu líto –
 
 **Dvorní rada**: Mně také, člověče.
@@ -1650,8 +1558,7 @@ Raději nechám celý svět pojít na malomocenství, než bych tady strpěl…
 na jediný okamžik…
 váš pacifistický mor!
 
-**Dr.
-Galén**: Poslyšte, to byste neměl…
+**Dr. Galén**: Poslyšte, to byste neměl…
 To byste jako lékař neměl říkat!
 
 **Dvorní rada**: Já nejsem jenom lékař, pane.

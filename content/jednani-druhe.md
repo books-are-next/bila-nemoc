@@ -225,33 +225,28 @@ To bych mu něco řekl, víš –
 **Otec**: Ne, ale já mu řeknu, co je jeho lidská povinnost!
 Já mu řeknu, pane doktore, ať to stojí co stojí – tady jde o mou ženu
 
-_(Vychází Dr.
-Galén.)_
+_(Vychází Dr. Galén.)_
 
-**Dr.
-Galén**: Co…
+**Dr. Galén**: Co…
 co chcete?
 
 **Otec**: Pane doktore…
 kdybyste byl tak laskav…
 tady má žena…
 
-**Dr.
-Galén**: Kdo jste?
+**Dr. Galén**: Kdo jste?
 
 **Otec**: Já, prosím…
 já jsem účetním ředitelem…
 Krügových podniků.
 
-**Dr.
-Galén**: Krügových podniků?…
+**Dr. Galén**: Krügových podniků?…
 Prosím to já nemohu – Je mi hrozně líto, pane, ale já léčím jen chudé, že ano –
 
 **Otec**: Pane doktore, mějte slitování!
 Budeme vám do smrti žehnat –
 
-**Dr.
-Galén**: Poslyšte, ne…
+**Dr. Galén**: Poslyšte, ne…
 Prosím vás, to ne…
 Podívejte se, já…
 já opravdu mohu jen chudé…
@@ -260,16 +255,14 @@ Chudí nemohou nic dělat, ale ti druzí, ti mohou spíš –
 **Otec**: Prosím, já jsem ochoten cokoliv…
 ať to stojí co stojí…
 
-**Dr.
-Galén**: Podívejte se, ti bohatí mohou spíš prosadit, že ano…, aby už nebyly války.
+**Dr. Galén**: Podívejte se, ti bohatí mohou spíš prosadit, že ano…, aby už nebyly války.
 Na ně se víc dá, pane…
 Mají větší vliv…
 Řekněte jim, aby všichni užili svého vlivu…
 
 **Otec**: Pane doktore, já bych rád; ale já osobně nemohu nic dělat…
 
-**Dr.
-Galén**: Ano, ano…
+**Dr. Galén**: Ano, ano…
 to říká každý, víte?
 Poslyšte, kdybyste vy řekl baronu Krügovi,…
 aby přestal vyrábět kanóny a munici…
@@ -279,15 +272,13 @@ Kdybyste získal barona Krüga –
 Jak bych se já prosím mohl opovážit…
 To je vůbec vyloučeno!
 
-**Dr.
-Galén**: Tak vidíte, a jak mám potom já…
+**Dr. Galén**: Tak vidíte, a jak mám potom já…
 Nu, co dělat…
 Je mi hrozně líto…
 
 **Otec**: Pane doktore, prosím vás, aspoň z lidské povinnosti –
 
-**Dr.
-Galén**: Ano, vidíte…
+**Dr. Galén**: Ano, vidíte…
 Já tu povinnost vzal na sebe, pane, to je právě to…
 To je to hrozně těžké, že ano…
 Poslyšte, kdybyste vy se zřekl svého místa u barona Krüga…
@@ -295,16 +286,14 @@ kdybyste mu řekl, že už nechcete pracovat pro jeho munici –
 
 **Otec**: A čím bych se potom měl živit?
 
-**Dr.
-Galén**: Tak vidíte, vy se taky živíte…
+**Dr. Galén**: Tak vidíte, vy se taky živíte…
 válkou!
 
 **Otec**: Kdybych dostal jinde místo účetního ředitele…
 Pane doktore, člověk se teprve k stáru dopracuje…
 To přece nemůžete žádat!
 
-**Dr.
-Galén**: Ano, vidíte – Člověk nemůže od lidí nic žádat.
+**Dr. Galén**: Ano, vidíte – Člověk nemůže od lidí nic žádat.
 Co dělat, co dělat…
 Nu tak sbohem, pane; je mi líto – (Odejde.)
 
@@ -491,32 +480,27 @@ _Opona_
 
 _Ordinace Doktora Galéna._
 
-**Dr.
-Galén**: Poslyšte, člověče, dobré je to.
+**Dr. Galén**: Poslyšte, člověče, dobré je to.
 Můžete se ustrojit.
 
 **malomocný** _(z prvního aktu)_: A kdy mám zas, pane doktore, přijít?
 (Obléká se za plentou.)
 
-**Dr.
-Galén**: Za čtrnáct dní, abych se podíval, že ano…
+**Dr. Galén**: Za čtrnáct dní, abych se podíval, že ano…
 A pak už snad nebude třeba…
 (Otevře dveře.) Další nemocný!
 
 _(Vejde Baron Krüg, zarostlý, v žebráckých hadrech.)_
 
-**Dr.
-Galén**: Tak co je s vámi, člověče?
+**Dr. Galén**: Tak co je s vámi, člověče?
 
 **Baron Krüg**: Pane doktore, já mám tu bílou nemoc –
 
-**Dr.
-Galén**: Košili sundat.
+**Dr. Galén**: Košili sundat.
 – A co vy tam…
 Tak dělejte, člověče –
 
-**Dr.
-Galén** _(bere stříkačku)_: A tak co tedy prosím – Čím se má na lidi působit?
+**Dr. Galén** _(bere stříkačku)_: A tak co tedy prosím – Čím se má na lidi působit?
 
 **Baron Krüg**: –– Nevím.
 Já jsem to obyčejně zkoušel s penězi.
@@ -527,55 +511,47 @@ poctivá nabídka.
 Dvacet…
 třicet miliónů za jeden jediný život!
 
-**Dr.
-Galén**: Vy máte…
+**Dr. Galén**: Vy máte…
 takový strach z bílé nemoci?
 (Nasává lékem injekční stříkačku.)
 
 **Baron Krüg**: …
 Ano.
 
-**Dr.
-Galén**: To je mně hrozně líto…
+**Dr. Galén**: To je mně hrozně líto…
 (Přibližuje se k Baronu Krügovi se stříkačkou v ruce.) Poslyšte, nemohl byste…
 ve svých podnicích…
 zastavit výrobu zbraní a munice?
 
 **Baron Krüg**: – – – Nemohl.
 
-**Dr.
-Galén**: Bože to je těžké…
+**Dr. Galén**: Bože to je těžké…
 Tak co mně vůbec můžete dát?
 
 **Baron Krüg**: – – Jenom peníze.
 
-**Dr.
-Galén**: Ale vždyť vidíte, že bych neuměl– (Položí stříkačku na stůl.) Ne, to by bylo zbytečné, prosím docela zbytečné, že ano –
+**Dr. Galén**: Ale vždyť vidíte, že bych neuměl– (Položí stříkačku na stůl.) Ne, to by bylo zbytečné, prosím docela zbytečné, že ano –
 
 **Baron Krüg**: Vy mě nechcete vzít do léčení?
 
-**Dr.
-Galén**: Je mně hrozně líto – Můžete se ustrojit, pane barone.
+**Dr. Galén**: Je mně hrozně líto – Můžete se ustrojit, pane barone.
 
 **Baron Krüg**: To je tedy…
 konec, Kriste Ježíši…
 Ježíši Kriste ukřižovaný!
 
-**Dr.
-Galén**: Vy se ještě vrátíte, člověče.
+**Dr. Galén**: Vy se ještě vrátíte, člověče.
 
 **Baron Krüg** _(obléká se za plentou)_: Mám…
 mám ještě jednou přijít?
 
-**Dr.
-Galén**: Ano.
+**Dr. Galén**: Ano.
 A můžete si tam vzadu přečíst, kolik se platí za lékařskou prohlídku.
 
 **Baron Krüg** _(vychází, zapínaje se)_: Poslyšte, doktore, mně se zdá,…
 že nejste tak docela naivní.
 
-**Dr.
-Galén**: Až si to rozmyslíte, tak – přijdete.
+**Dr. Galén**: Až si to rozmyslíte, tak – přijdete.
 (Otvírá dveře.) Další nemocný!
 
 _Opona_
@@ -816,25 +792,21 @@ _Táž pracovna Maršálova._
 
 **Maršál** _(píše)_: Uveďte ho.
 
-_(Pobočník uvede Dr.
-Galéna.
+_(Pobočník uvede Dr. Galéna.
 Oba zůstanou stát u dveří.)_
 
 **Maršál** _(píše dál.
 Po chvíli)_: Doktor Galén?
 
-**Dr.
-Galén** _(lekne se)_: Prosím, pane dvorní rado.
+**Dr. Galén** _(lekne se)_: Prosím, pane dvorní rado.
 
 **Pobočník** _(tiše napovídá)_: Vaše Excelence.
 
-**Dr.
-Galén**: Totiž Vaše Excelence, že ano –
+**Dr. Galén**: Totiž Vaše Excelence, že ano –
 
 **Maršál** _(píše dál)_: Pojďte blíž.
 
-**Dr.
-Galén**: K službám, pane…
+**Dr. Galén**: K službám, pane…
 Vaše Excelence.
 (Přiblíží se o krok.)
 
@@ -845,39 +817,34 @@ o vašich výsledcích.
 (Bere do ruky fascikl aktů.) Ty výsledky jsou ověřeny, doktore.
 Je to podivuhodné.
 
-**Dr.
-Galén** _(zmaten a dojat)_: Děkuju uctivě, pane…
+**Dr. Galén** _(zmaten a dojat)_: Děkuju uctivě, pane…
 Vaše Excelence.
 
 **Maršál**: Tady jsem připravil jakýsi projekt – Chci totiž udělat z nemocnice u Svatého Ducha státní ústav pro potírání Čengovy nemoci.
 Nastoupíte tam jako primář, doktore Galéne.
 
-**Dr.
-Galén**: Ale já…
+**Dr. Galén**: Ale já…
 To by nešlo, pane…
 Já mám totiž takovou klientelu, Vaše Excelence, že ano…
 To bych prosím opravdu nemohl.
 
 **Maršál**: Považujte to za rozkaz, milý doktore Galéne.
 
-**Dr.
-Galén**: Já bych jinak s největší radostí, Vaše Excelence…
+**Dr. Galén**: Já bych jinak s největší radostí, Vaše Excelence…
 Ale já přece nemohu řídit…
 Člověk nemá ani tu zkušenost, že ano…
 
 **Maršál**: Tak vám to řeknu jinak.
 (Podívá se na pobočníka, který zmizí.) Vy jste odmítl vzít do léčení barona Krüga.
 
-**Dr.
-Galén**: To ne prosím.
+**Dr. Galén**: To ne prosím.
 Já jen…
 tady byla jistá podmínka –
 
 **Maršál**: Vím.
 Budete tedy léčit barona Krüga – bez jakékoliv podmínky, doktore Galéne.
 
-**Dr.
-Galén**: Je mně hrozně líto, pane…
+**Dr. Galén**: Je mně hrozně líto, pane…
 Vaše Excelence…
 ale to opravdu nejde.
 Já…
@@ -886,22 +853,19 @@ já musím trvati na své podmínce –
 **Maršál**: Doktore, jsou prostředky, kterými lze lidi přinutit,…
 aby splnili rozkazy.
 
-**Dr.
-Galén**: Podívejte se, vy mě můžete dát zavřít, že ano, ale –
+**Dr. Galén**: Podívejte se, vy mě můžete dát zavřít, že ano, ale –
 
 **Maršál**: Dobře.
 (Sahá po zvonku.)
 
-**Dr.
-Galén**: Poslyšte, pane, nedělejte to!
+**Dr. Galén**: Poslyšte, pane, nedělejte to!
 Já mám tolik pacientů – Zabijete je, když mne dáte zavřít!
 
 **Maršál** _(pouští zvonek)_: Nebyli by to první mrtví na mé cestě.
 Ale vy si to ještě rozmyslíte.
 (Vstane a jde k němu.) Člověče, jste blázen – nebo takový hrdina?
 
-**Dr.
-Galén** _(couvá)_: Ne prosím, já – Hrdina jistě ne; ale já byl na vojně…
+**Dr. Galén** _(couvá)_: Ne prosím, já – Hrdina jistě ne; ale já byl na vojně…
 jako lékař…, a když jsem viděl tolik lidí umírat…
 tolik zdravých lidí, že ano –
 
@@ -909,8 +873,7 @@ tolik zdravých lidí, že ano –
 Ale já jsem tam viděl lidi bojovat za vlast.
 A já jsem je přivedl zpátky jako vítěze.
 
-**Dr.
-Galén**: To je právě to.
+**Dr. Galén**: To je právě to.
 Já jsem viděl spíš ty, které…
 které jste už nepřivedl zpátky.
 To je ten rozdíl, pane…
@@ -918,26 +881,22 @@ Vaše Excelence.
 
 **Maršál**: V jaké hodnosti jste sloužil?
 
-**Dr.
-Galén** _(srazí paty)_: Jako asistenční lékař u šestatřicátého pěšího pluku, pane maršále.
+**Dr. Galén** _(srazí paty)_: Jako asistenční lékař u šestatřicátého pěšího pluku, pane maršále.
 
 **Maršál**: Skvělý pluk.
 – Nějaké vyznamenání?
 
-**Dr.
-Galén**: Zlatý kříž s meči, pane maršále.
+**Dr. Galén**: Zlatý kříž s meči, pane maršále.
 
 **Maršál**: Bravo.
 (Podá mu ruku.)
 
-**Dr.
-Galén**: Děkuju, pane maršále.
+**Dr. Galén**: Děkuju, pane maršále.
 
 **Maršál**: Dobrá.
 Půjdete se přihlásit k baronu Krügovi.
 
-**Dr.
-Galén**: – – Prosím, abych byl zatčen pro odepření poslušnosti.
+**Dr. Galén**: – – Prosím, abych byl zatčen pro odepření poslušnosti.
 
 _(Maršál pokrčí rameny a zazvoní.)_
 
@@ -946,16 +905,13 @@ _(Pobočník objeví se ve dveřích.)_
 **Maršál**: Dáte zatknout doktora Galéna.
 
 **Pobočník**: Podle rozkazu, Vaše Excelence.
-(Přistoupí k Dr.
-Galénovi.)
+(Přistoupí k Dr. Galénovi.)
 
-**Dr.
-Galén**: Poslyšte, nedělejte to!
+**Dr. Galén**: Poslyšte, nedělejte to!
 
 **Maršál**: Proč?
 
-**Dr.
-Galén**: Můžete mne potřebovat – třeba i vy.
+**Dr. Galén**: Můžete mne potřebovat – třeba i vy.
 
 **Maršál**: Já ne.
 (K Pobočníkovi.) Nic.
@@ -975,15 +931,13 @@ Doktore, zachraňte Krüga!
 Už jsem…
 hodně dlouho nikoho neprosil.
 
-**Dr.
-Galén**: Bože to je tak těžká věc…
+**Dr. Galén**: Bože to je tak těžká věc…
 Já bych tak rád…
 Poslyšte, já bych měl taky prosbu.
 
 **Maršál**: To není odpověď.
 
-**Dr.
-Galén**: Prosím vás, Vaše Excelence, já jen okamžik…
+**Dr. Galén**: Prosím vás, Vaše Excelence, já jen okamžik…
 Vy jste takový státník a máte tak nesmírnou moc…
 Ne že bych vám chtěl lichotit, ale – bohužel je to tak, že ano…
 Podívejte se, kdybyste vy chtěl nabídnout věčný mír…
@@ -994,8 +948,7 @@ Kdybyste vy řekl, že chcete mír, bude na celém světě pokoj, že ano…
 
 **Maršál**: – – Mluvil jsem o baronu Krügovi, doktore.
 
-**Dr.
-Galén**: Ano, právě…
+**Dr. Galén**: Ano, právě…
 Vy ho můžete zachránit…
 jeho a všechny malomocné.
 Řekněte, že chcete světu zajistit trvalý mír…
@@ -1008,8 +961,7 @@ Prosím vás, už kvůli němu…
 
 **Maršál**: Baron Krüg na vaši podmínku nemůže přistoupit.
 
-**Dr.
-Galén**: Ale vy můžete, pane…
+**Dr. Galén**: Ale vy můžete, pane…
 Vy můžete udělat všechno!
 
 **Maršál**: Nemohu.
@@ -1019,8 +971,7 @@ Musím se řídit tím, co je v zájmu mého národa.
 Půjde-li jednou můj národ do války, pak je…
 má povinnost jej pro ten boj vychovat.
 
-**Dr.
-Galén**: Jenže…
+**Dr. Galén**: Jenže…
 kdyby nebylo vás,…
 tak by váš národ do žádné výbojné války nešel, že ano.
 
@@ -1030,8 +981,7 @@ Nebyl by tak dobře připraven.
 Nebyl by si tak vědom své síly – a svých šancí.
 Dnes o nich bohudík ví; a já plním jen jeho vůli –
 
-**Dr.
-Galén**: – kterou jste vy sám vyvolal.
+**Dr. Galén**: – kterou jste vy sám vyvolal.
 
 **Maršál**: Ano.
 Vzbudil jsem v něm vůli žít.
@@ -1039,36 +989,31 @@ Vy věříte, že mír je lepší než válka.
 Já věřím, že vítězná válka je lepší než mír.
 A já svůj národ nesmím připravit o jeho vítězství.
 
-**Dr.
-Galén**: Ani o jeho padlé, že ano.
+**Dr. Galén**: Ani o jeho padlé, že ano.
 
 **Maršál**: Ani o jeho padlé.
 Člověče, teprve krev padlých dělá z kusu země vlast.
 Jenom válka udělá z lidí národ a z mužů hrdiny –
 
-**Dr.
-Galén**: – a mrtvé.
+**Dr. Galén**: – a mrtvé.
 Já viděl ve válce víc těch mrtvých, víte –
 
 **Maršál**: To dělá vaše řemeslo, doktore.
 Já jsem při svém řemesle viděl víc těch hrdin.
 
-**Dr.
-Galén**: Ano, ti byli vzadu, Vaše Excelence.
+**Dr. Galén**: Ano, ti byli vzadu, Vaše Excelence.
 My v zákopech jsme tak moc stateční nebyli.
 
 **Maršál**: Zač jste vy dostal ten řád?
 
-**Dr.
-Galén**: To bylo…
+**Dr. Galén**: To bylo…
 jenom za to, že jsem ovázal nějaké raněné.
 
 **Maršál**: Já vím.
 Bylo to na bojišti mezi zákopy.
 To nebyla statečnost?
 
-**Dr.
-Galén**: Nebyla prosím.
+**Dr. Galén**: Nebyla prosím.
 To jen…
 prostě jako lékař.
 To člověk musí, že ano…
@@ -1077,60 +1022,51 @@ To člověk musí, že ano…
 Řekněte, je vám to…
 uloženo?
 
-**Dr.
-Galén**: Já nerozumím prosím.
+**Dr. Galén**: Já nerozumím prosím.
 
 **Maršál** _(tiše)_: Člověče, máte…
 vyšší poslání?
 
-**Dr.
-Galén**: Ne, vůbec ne.
+**Dr. Galén**: Ne, vůbec ne.
 Já jenom jako obyčejný člověk, že ano…
 
 **Maršál**: Pak to nesmíte dělat, doktore.
 Musí být vyšší poslání…
 Musí být vyšší vůle, která nás řídí –
 
-**Dr.
-Galén**: Čí vůle?
+**Dr. Galén**: Čí vůle?
 
 **Maršál**: Bůh.
 Já jsem pověřen bohem, člověče; jinak bych nemohl vést…
 
-**Dr.
-Galén**: To teda…
+**Dr. Galén**: To teda…
 musíte vést tu válku?
 
 **Maršál**: Ano.
 Ve jménu národa –
 
-**Dr.
-Galén**: – jehož děti padnou v boji –
+**Dr. Galén**: – jehož děti padnou v boji –
 
 **Maršál**: – a dobudou vítězství.
 Ve jménu národa –
 
-**Dr.
-Galén**: – jehož otcové a matky zajdou malomocenstvím –
+**Dr. Galén**: – jehož otcové a matky zajdou malomocenstvím –
 
 **Maršál** _(vstane)_: Na těch nemám tolik zájmu, doktore.
 Z těch už vojáci nebudou.
 Nevím, proč jsem vás ještě nedal zatknout.
 
-**Dr.
-Galén** _(vstane)_: Vaše Excelence poroučí –
+**Dr. Galén** _(vstane)_: Vaše Excelence poroučí –
 
 **Maršál**: Vy uzdravíte barona Krüga.
 Vlast ho potřebuje.
 
-**Dr.
-Galén**: Tak já tedy…
+**Dr. Galén**: Tak já tedy…
 Tak jen ať pan baron ke mně přijde, že ano…
 
 **Maršál**: – a přistoupí na vaši nemožnou podmínku, ne?
 
-**Dr.
-Galén**: Ano, Vaše Excelence.
+**Dr. Galén**: Ano, Vaše Excelence.
 Až splní tu…
 nemožnou podmínku.
 
