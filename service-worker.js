@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-8771c34';
+const CACHE = 'cache-da31ed4';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./favicon.png","./index.html","./manifest.json","./reading.html","./solitude.html","./sounds.html","./where-i-lived-and-what-i-lived-for.html","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./jednani-druhe.html","./jednani-prvni.html","./jednani-treti.html","./manifest.json","./osoby.html","./predmluva.html","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {

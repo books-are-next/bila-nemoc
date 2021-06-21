@@ -1,15 +1,34 @@
 {
-  "author": "Author Name",
+  "author": "Karel Čapek",
   "keywords": [],
-  "published": 2020,
-  "title": "Next-book Boilerplate",
-  "identifier": "name-next-book-boilerplate-2020-8771c34",
-  "revision": "8771c34",
+  "published": 2021,
+  "title": "Bílá nemoc",
+  "identifier": "capek-bila-nemoc-2021-da31ed4",
+  "revision": "da31ed4",
   "generatedAt": {
-    "date": "Sun Jun 20 2021 15:59:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1624204763050
+    "date": "Mon Jun 21 2021 06:56:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1624258602120
   },
   "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 83,
+      "chars": 547,
+      "ideas": 4,
+      "role": "colophon",
+      "order": null,
+      "next": "predmluva.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
     {
       "title": "Next-book boilerplate",
       "file": "index.html",
@@ -18,84 +37,227 @@
       "ideas": 0,
       "role": "index",
       "order": null,
-      "next": "where-i-lived-and-what-i-lived-for.html",
+      "next": "predmluva.html",
       "toc": []
     },
     {
-      "title": "Reading",
-      "file": "reading.html",
-      "words": 3759,
-      "chars": 20866,
-      "ideas": 129,
+      "title": "Jednání druhé: Baron Krüg",
+      "file": "jednani-druhe.html",
+      "words": 5276,
+      "chars": 29191,
+      "ideas": 753,
       "role": "chapter",
-      "order": 1,
-      "prev": "where-i-lived-and-what-i-lived-for.html",
-      "next": "sounds.html",
+      "order": 3,
+      "prev": "jednani-prvni.html",
+      "next": "jednani-treti.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Reading",
+          "name": "Jednání druhé: Baron Krüg",
           "id": "chunk1",
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Obraz první",
+              "id": "obraz-první",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Obraz druhý",
+              "id": "obraz-druhý",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Obraz třetí",
+              "id": "obraz-třetí",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Obraz čtvrtý",
+              "id": "obraz-čtvrtý",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Obraz pátý",
+              "id": "obraz-pátý",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Obraz šestý",
+              "id": "obraz-šestý",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Solitude",
-      "file": "solitude.html",
-      "words": 3450,
-      "chars": 18237,
-      "ideas": 137,
+      "title": "Jednání první: Dvorní rada",
+      "file": "jednani-prvni.html",
+      "words": 8280,
+      "chars": 47952,
+      "ideas": 1109,
       "role": "chapter",
-      "order": 3,
-      "prev": "sounds.html",
+      "order": 2,
+      "prev": "osoby.html",
+      "next": "jednani-druhe.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jednání první: Dvorní rada",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Obraz první",
+              "id": "obraz-první",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Obraz druhý",
+              "id": "obraz-druhý",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Obraz třetí",
+              "id": "obraz-třetí",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Obraz čtvrtý",
+              "id": "obraz-čtvrtý",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Obraz pátý",
+              "id": "obraz-pátý",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jednání třetí: Maršál",
+      "file": "jednani-treti.html",
+      "words": 3494,
+      "chars": 19520,
+      "ideas": 631,
+      "role": "chapter",
+      "order": 4,
+      "prev": "jednani-druhe.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Solitude",
+          "name": "Jednání třetí: Maršál",
           "id": "chunk1",
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Obraz první",
+              "id": "obraz-první",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Obraz druhý",
+              "id": "obraz-druhý",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Obraz třetí",
+              "id": "obraz-třetí",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Sounds",
-      "file": "sounds.html",
-      "words": 5737,
-      "chars": 31441,
-      "ideas": 213,
+      "title": "Osoby",
+      "file": "osoby.html",
+      "words": 88,
+      "chars": 553,
+      "ideas": 46,
       "role": "chapter",
-      "order": 2,
-      "prev": "reading.html",
-      "next": "solitude.html",
+      "order": 1,
+      "prev": "predmluva.html",
+      "next": "jednani-prvni.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Sounds",
+          "name": "Osoby",
           "id": "chunk1",
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Akt: Dvorní rada",
+              "id": "i-akt-dvorní-rada",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II. Akt: Baron Krüg",
+              "id": "ii-akt-baron-krüg",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III. Akt: Maršál",
+              "id": "iii-akt-maršál",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Where I Lived, and What I Lived For",
-      "file": "where-i-lived-and-what-i-lived-for.html",
-      "words": 6105,
-      "chars": 32356,
-      "ideas": 235,
+      "title": "Předmluva",
+      "file": "predmluva.html",
+      "words": 869,
+      "chars": 5424,
+      "ideas": 27,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "reading.html",
+      "next": "osoby.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Where I Lived, and What I Lived For",
+          "name": "Předmluva",
           "id": "chunk1",
           "children": []
         }
@@ -104,14 +266,14 @@
   ],
   "totals": {
     "all": {
-      "words": 19051,
-      "chars": 102900,
-      "ideas": 714
+      "words": 18090,
+      "chars": 103187,
+      "ideas": 2570
     },
     "chapters": {
-      "words": 19051,
-      "chars": 102900,
-      "ideas": 714
+      "words": 18007,
+      "chars": 102640,
+      "ideas": 2566
     }
   }
 }
