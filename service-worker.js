@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-da31ed4';
+const CACHE = 'cache-cff498d';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./jednani-druhe.html","./jednani-prvni.html","./jednani-treti.html","./manifest.json","./osoby.html","./predmluva.html","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./jednani-druhe.html","./jednani-prvni.html","./jednani-treti.html","./manifest.json","./osoby.html","./predmluva.html","./zivot-a-doba-spisovatele-karla-capka-v-datech.html","./images/jednani_druhe.mp4","./images/jednani_prvni.mp4","./images/jednani_treti.mp4","./images/titulni.mp4","./scripts/bundle.js","./style/style.min.css","./fonts/spectral/SIL Open Font License.txt","./fonts/spectral/Spectral-Bold.woff2","./fonts/spectral/Spectral-BoldItalic.woff2","./fonts/spectral/Spectral-Medium.woff2","./fonts/spectral/Spectral-MediumItalic.woff2","./fonts/space/AUTHORS.txt","./fonts/space/CONTRIBUTORS.txt","./fonts/space/OFL.txt","./fonts/space/webfont/SpaceGrotesk-Bold.woff","./fonts/space/webfont/SpaceGrotesk-Bold.woff2","./fonts/space/webfont/SpaceGrotesk-Light.woff","./fonts/space/webfont/SpaceGrotesk-Light.woff2","./fonts/space/webfont/SpaceGrotesk-Medium.woff","./fonts/space/webfont/SpaceGrotesk-Medium.woff2","./fonts/space/webfont/SpaceGrotesk-Regular.woff","./fonts/space/webfont/SpaceGrotesk-Regular.woff2","./fonts/space/webfont/SpaceGrotesk-SemiBold.woff","./fonts/space/webfont/SpaceGrotesk-SemiBold.woff2","./fonts/space/variable/SpaceGroteskVariable.ttf","./fonts/space/variable/SpaceGroteskVariable.woff2"]));
 }
 
 self.addEventListener('fetch', e => {

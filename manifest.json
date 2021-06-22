@@ -3,19 +3,19 @@
   "keywords": [],
   "published": 2021,
   "title": "Bílá nemoc",
-  "identifier": "capek-bila-nemoc-2021-da31ed4",
-  "revision": "da31ed4",
+  "identifier": "capek-bila-nemoc-2021-cff498d",
+  "revision": "cff498d",
   "generatedAt": {
-    "date": "Mon Jun 21 2021 06:56:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1624258602120
+    "date": "Tue Jun 22 2021 10:09:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1624356553256
   },
   "documents": [
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 547,
-      "ideas": 4,
+      "words": 90,
+      "chars": 582,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "next": "predmluva.html",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "title": "Next-book boilerplate",
+      "title": "Karel Čapek",
       "file": "index.html",
       "words": 0,
       "chars": 0,
@@ -168,7 +168,7 @@
       "role": "chapter",
       "order": 4,
       "prev": "jednani-druhe.html",
-      "next": null,
+      "next": "zivot-a-doba-spisovatele-karla-capka-v-datech.html",
       "toc": [
         {
           "index": 0,
@@ -262,18 +262,46 @@
           "children": []
         }
       ]
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "file": "zivot-a-doba-spisovatele-karla-capka-v-datech.html",
+      "words": 522,
+      "chars": 3149,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 5,
+      "prev": "jednani-treti.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 16,
+              "level": 2,
+              "name": "První vydání knih Karla Čapka",
+              "id": "první-vydání-knih-karlanbspčapka",
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 18090,
-      "chars": 103187,
-      "ideas": 2570
+      "words": 18619,
+      "chars": 106371,
+      "ideas": 2680
     },
     "chapters": {
-      "words": 18007,
-      "chars": 102640,
-      "ideas": 2566
+      "words": 18529,
+      "chars": 105789,
+      "ideas": 2675
     }
   }
 }
