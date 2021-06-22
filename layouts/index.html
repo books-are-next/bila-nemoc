@@ -1,13 +1,20 @@
 {{ define "content" }}
-<header class="hero">
-  <h1>
-    {{ .Title }}
-  </h1>
-  <p class="author">{{ .Params.author }}</p>
-</header>
-<div class="content">
-    <div class="wrapper">
-      {{ .Content }}
+<a href="/predmluva.html">
+  <div class="top">
+    <h1 class="autor">Karel <br>Čapek</h1>
   </div>
-</div>
+  <div class="bottom">
+    <h1 class="titul">Bílá <br>nemoc<br><span class="underline full"></span></h1>
+
+    <h2 class="nakladatel"><br>N→B<br><span class="underline outline"></span></h2>
+  </div>
+
+  <div class="wrapper">
+    <div class="composition">
+          <video id="hemzeni" autoplay="" muted="" playsinline="" loop="">
+              <source src="./images/titulni.mp4" type="video/mp4">
+          </video>
+    </div>
+  </div>
+</a>
 {{ end }}

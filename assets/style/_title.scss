@@ -1,0 +1,191 @@
+.nb-role-index {
+  background: black;
+
+  .content {
+    display: none;
+  }
+}
+
+.title-wrapper {
+  --illu-size: 13;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  min-height: 350px;
+
+  background: black;
+  padding: 1rem;
+}
+
+.title {
+  background: black;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  max-width: 180vh;
+  margin: 0 auto;
+
+  //border: 1px solid red;
+  position: relative;
+
+  .dot,
+  .arrow,
+  .a::after,
+  .star,
+  .title-heading {
+    position: absolute;
+  }
+
+  .title-heading {
+    z-index: 5;
+    left: 0;
+    bottom: 0;
+
+    font-size: calc(var(--illu-size) * 0.5vh);
+    line-height: 1.52em;
+    margin: auto 0 -0.5rem 0;
+    color: white;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-family: "Space";
+
+    .author {
+      font-weight: normal;
+    }
+  }
+
+  .star {
+    z-index: 4;
+    right: 0;
+    bottom: 0;
+    height: calc(var(--illu-size) * 3vh);
+    width: calc(var(--illu-size) * 3vh);
+
+    background-image: url(../title/light.svg);
+    background-position: 100% 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .a::after {
+    display: block;
+    z-index: 3;
+    left: 50%;
+    top: 0;
+    width: 40vw;
+
+    content: "A";
+    background: black;
+
+    font-family: "Cover", sans-serif;
+    color: white;
+    font-size: calc(60vh);
+    margin: 0 -20vw;
+    line-height: 1.2;
+    text-align: center;
+  }
+
+  .dot,
+  .arrow {
+    height: calc(var(--illu-size) * 3vh);
+    width: 50vw;
+    background-repeat: no-repeat;
+  }
+
+  .dot {
+    z-index: 2;
+    top: 0;
+    left: 0;
+
+    background-image: url(../title/dots.gif);
+    background-position: 0% 0%;
+    background-size: contain;
+  }
+
+  .arrow {
+    z-index: 1;
+    top: 0;
+    right: 0;
+
+    background-image: url(../title/arrow.gif);
+    background-position: 100% 0%;
+    background-size: contain;
+  }
+}
+
+@media only screen and (max-aspect-ratio: 8/10) {
+  .title-wrapper {
+    --illu-size: 10;
+    padding-bottom: 3rem;
+
+    .dot,
+    .arrow {
+      height: calc(var(--illu-size) * 1.7vh);
+      background-size: cover;
+    }
+  }
+}
+
+@media only screen and (max-aspect-ratio: 7/10) {
+  .title-wrapper {
+    --illu-size: 7.5;
+
+    .title .a::after {
+      font-size: calc(70vh);
+    }
+  }
+}
+
+@media only screen and (min-aspect-ratio: 13/10) {
+  .title-wrapper {
+    --illu-size: 15;
+  }
+
+  .title {
+    height: 90vh;
+
+    .dot,
+    .arrow {
+      width: calc(var(--illu-size) * 5vh);
+      height: calc(var(--illu-size) * 1.5vh);
+    }
+
+    .star {
+      height: calc(var(--illu-size) * 3vh);
+      width: calc(var(--illu-size) * 3vh);
+    }
+
+    .a::after {
+      height: 100%;
+      font-size: 90vh;
+    }
+
+    .title-heading {
+      font-size: 7vh;
+      margin-bottom: -0.4em;
+    }
+  }
+}
+
+@mixin font-stretch($min-ratio, $font-stretch) {
+  @media only screen and (min-aspect-ratio: $min-ratio) {
+    .title {
+      .a {
+        font-stretch: $font-stretch;
+      }
+    }
+  }
+}
+
+@include font-stretch("8/10", 500%);
+@include font-stretch("9/10", 800%);
+@include font-stretch("13/10", 100%);
+@include font-stretch("14/10", 200%);
+@include font-stretch("15/10", 400%);
+@include font-stretch("16/10", 600%);
+@include font-stretch("17/10", 700%);
+@include font-stretch("18/10", 1000%);

@@ -1,5 +1,8 @@
 ---
 title: "Jednání první: Dvorní rada"
+act: Jednání první
+name: Dvorní rada
+illustration: jednani_prvni.mp4
 ---
 
 ## Obraz první
@@ -769,7 +772,7 @@ _Opona_
 _Nemocniční chodba před pokojem číslo 12 a 13._
 
 **Dvorní rada** _(v čele hloučku profesorů)_: Tak prosím, pánové, tady je to.
-Par ici, chers confrčres.
+Par ici, chers confrères.
 Here are we, gentlemen.
 Ich bitte meine verehrten Herren Kollegen hereinzutreten.
 (Uvádí je do třináctky.)

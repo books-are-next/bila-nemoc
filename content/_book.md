@@ -14,6 +14,7 @@ chapters:
   - jednani-prvni.html
   - jednani-druhe.html
   - jednani-treti.html
+  - zivot-a-doba-spisovatele-karla-capka-v-datech.html
 static:
   - style
   - scripts

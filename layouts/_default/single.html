@@ -1,8 +1,27 @@
 {{ define "content" }}
 <div class="content">
-  <main>
+  {{ if isset .Params "act" }}
+  <div class="chapter-cover" aria-hidden="hidden">
+    <a href="#text">
+      <div class="top">
+        <p class="autor">{{ .Params.act | replaceRE " " "<br>" | safeHTML }}</p>
+      </div>
+      <div class="bottom">
+        <p class="titul">{{ .Params.name | replaceRE " " "<br>" | safeHTML }}<span class="underline full"></span></p>
+      </div>
+
+      <div class="wrapper">
+        <div class="composition">
+            <video id="hemzeni" autoplay="" muted="" playsinline="" loop="">
+                  <source src="./images/{{ .Params.illustration }}" type="video/mp4">
+              </video>
+        </div>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+  <main id="text">
     <h1>{{ .Title | markdownify }}</h1>
-    {{ with .Params.authors }}<p class="authors">{{ . | markdownify }}</p>{{ end }}
     {{ partial "typo.html" .RawContent }}
   </main>
 </div>

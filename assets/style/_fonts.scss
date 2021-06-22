@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "Space VF";
+  src: url("../fonts/space/variable/SpaceGroteskVariable.woff2") format("woff2-variations"),
+    /* will be the standard and works in Safari now */
+      url("../fonts/space/variable/SpaceGroteskVariable.woff2") format("woff2");
+  /* for the other supporting browsers */
+  font-weight: 300 800;
+}
+
+@font-face {
+  font-family: "Space";
+  src: url("../fonts/space/webfont/SpaceGrotesk-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Space";
+  src: url("../fonts/space/webfont/SpaceGrotesk-Bold.woff2") format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Cover";
+  src: url("../fonts/CapekCoverAGX.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral/Spectral-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral/Spectral-MediumItalic.woff2") format("woff2");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral/Spectral-Bold.woff2") format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral/Spectral-BoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+}
+
+/// linear-interpolation
+/// Calculate the definition of a line between two points
+/// @param $map - A Sass map of viewport widths and size value pairs
+/// @returns A linear equation as a calc() function
+/// @example
+///   font-size: linear-interpolation((320px: 18px, 768px: 26px));
+/// @author Jake Wilson <jake.e.wilson@gmail.com>
+@function linear-interpolation($map) {
+  $keys: map-keys($map);
+  @if (length($keys) != 2) {
+    @error "linear-interpolation() $map must be exactly 2 values";
+  }
+  // The slope
+  $m: (map-get($map, nth($keys, 2)) - map-get($map, nth($keys, 1)))/ (nth($keys, 2) - nth($keys, 1));
+
+  // The y-intercept
+  $b: map-get($map, nth($keys, 1)) - $m * nth($keys, 1);
+
+  // Determine if the sign should be positive or negative
+  $sign: "+";
+  @if ($b < 0) {
+    $sign: "-";
+    $b: abs($b);
+  }
+
+  @return calc(#{$m * 100}vw #{$sign} #{$b});
+}
+
+:root {
+  // Minimum font-size
+  --base-font-size: 18px;
+  // Font-size between 576 - 768
+  @media (min-width: 20rem) {
+    $map: (
+      576px: 18px,
+      768px: 20px,
+    );
+    --base-font-size: #{linear-interpolation($map)};
+  }
+  // Font-size between 768 - 992
+  @media (min-width: 768px) {
+    $map: (
+      768px: 20px,
+      992px: 23px,
+    );
+    --base-font-size: #{linear-interpolation($map)};
+  }
+  // Maximum font-size
+  @media (min-width: 992px) {
+    --base-font-size: 23px;
+  }
+}
+
+h1 {
+  // Minimum font-size
+  font-size: 1.3rem;
+
+  @media (min-width: 20rem) {
+    $map: (
+      20rem: 1.3rem,
+      26rem: 1.9rem,
+    );
+    font-size: linear-interpolation($map);
+  }
+
+  @media (min-width: 26rem) {
+    $map: (
+      26rem: 1.9rem,
+      36rem: 2.17rem,
+    );
+    font-size: linear-interpolation($map);
+  }
+
+  @media (min-width: 36rem) {
+    font-size: 2.17rem;
+  }
+}
