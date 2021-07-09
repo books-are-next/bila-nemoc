@@ -3,19 +3,19 @@
   "keywords": [],
   "published": 2021,
   "title": "Bílá nemoc",
-  "identifier": "capek-bila-nemoc-2021-5954eec",
-  "revision": "5954eec",
+  "identifier": "capek-bila-nemoc-2021-183e5d4",
+  "revision": "183e5d4",
   "generatedAt": {
-    "date": "Fri Jul 09 2021 20:58:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1625864316757
+    "date": "Fri Jul 09 2021 21:04:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1625864645803
   },
   "documents": [
     {
       "title": "Tiráž",
       "file": "colophon.html",
       "words": 90,
-      "chars": 582,
-      "ideas": 5,
+      "chars": 581,
+      "ideas": 6,
       "role": "colophon",
       "order": null,
       "next": "predmluva.html",
@@ -726,8 +726,8 @@
   "totals": {
     "all": {
       "words": 18666,
-      "chars": 105729,
-      "ideas": 3623
+      "chars": 105728,
+      "ideas": 3624
     },
     "chapters": {
       "words": 18565,
