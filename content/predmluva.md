@@ -1,5 +1,6 @@
 ---
 title: Předmluva
+class: prose
 ---
 
 První podnět k této hře dal mi před léty námět přítele lékaře dr. Jiřího Foustky: doktor, který objeví nové paprsky, ničící zhoubné nádory, najde v nich paprsky smrti; jich pomocí se stane samovládcem a neblahým spasitelem světa.

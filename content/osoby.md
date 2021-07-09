@@ -1,17 +1,20 @@
 ---
 title: Osoby
+class: characters
 ---
 
-## I. Akt: Dvorní rada
+## Jednání první — Dvorní rada
 
 - Dvorní rada Prof. Dr. Sigelius
 - Doktor Galén
 - První asistent kliniky
 - Druhý asistent kliniky
-- První profesor
-- Druhý profesor
-- Třetí profesor
-- Čtvrtý profesor
+- Profesor
+    1. První
+    1. Druhý
+    1. Třetí
+    1. Čtvrtý
+
 - Maršál
 - Pobočník
 - Generál
@@ -22,15 +25,16 @@ title: Osoby
 - Novinář
 - Jiný novinář
 - Lékaři, ošetřovatelé, novináři, svita
-- První malomocný
-- Druhý malomocný
-- Třetí malomocný
+- Malomocný
+    1. První
+    1. Druhý
+    1. Třetí
 - Otec
 - Matka
 - Dcera
 - Syn
 
-## II. Akt: Baron Krüg
+## Jednání druhé — Baron Krüg
 
 - Dvorní rada Sigelius
 - Baron Krüg
@@ -41,7 +45,7 @@ title: Osoby
 - Otec
 - Matka
 
-## III. Akt: Maršál
+## Jednání třetí — Maršál
 
 - Maršál
 - Jeho dcera

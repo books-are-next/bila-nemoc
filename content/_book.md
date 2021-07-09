@@ -28,7 +28,7 @@ chapters:
   - treti-1.html
   - treti-2.html
   - treti-3.html
-  - zivot-a-doba-spisovatele-karla-capka-v-datech.html
+  - zivot.html
 static:
   - style
   - scripts
