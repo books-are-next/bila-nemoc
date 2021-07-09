@@ -33,7 +33,7 @@
 
 .prose .content main {
   p {
-    text-indent: 0rem;
+    text-indent: 0;
     padding-left: 0;
     margin-bottom: 0;
     padding: 0;
@@ -94,7 +94,10 @@
 
     p {
       margin: 0;
-      text-indent: 0;
+
+      & > .idea:first-child {
+        text-indent: 0;
+      }
     }
 
     li {
@@ -159,6 +162,10 @@
 
     p {
       text-indent: 0;
+
+      & > .idea:first-child {
+        text-indent: 0;
+      }
     }
   }
 
@@ -230,7 +237,9 @@
   align-items: baseline;
 
   p {
-    text-indent: 0;
+    & > .idea:first-child {
+      text-indent: 0;
+    }
   }
 
   .wrapper {
