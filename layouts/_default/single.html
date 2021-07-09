@@ -1,8 +1,8 @@
 {{ define "content" }}
 <div class="content">
-  {{ if isset .Params "act" }}
-  <div class="chapter-cover" aria-hidden="hidden">
-    <a href="#text">
+  {{ if eq .Params.role "break" }}
+  <main class="break" aria-hidden="hidden">
+    <div>
       <div class="top">
         <p class="autor">{{ .Params.act | replaceRE " " "<br>" | safeHTML }}</p>
       </div>
@@ -17,12 +17,16 @@
               </video>
         </div>
       </div>
-    </a>
-  </div>
-  {{ end }}
-  <main id="text">
-    <h1>{{ .Title | markdownify }}</h1>
+    </div>
+  </main>
+  {{ else }}
+  <main>
+    <header>
+      {{ with .Params.act }}<p class="act-name">{{ . }} — {{ $.Params.name }}</p>{{ end }}
+      <h1>{{ .Title | markdownify }}</h1>
+    </header>
     {{ partial "typo.html" .RawContent }}
   </main>
+  {{ end }}
 </div>
 {{ end }}

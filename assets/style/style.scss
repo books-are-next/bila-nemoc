@@ -21,43 +21,115 @@
   --heading-font: "Space VF";
 }
 
-.content {
+.prose .content main {
+  p {
+    text-indent: 2rem;
+    padding-left: 0;
+    margin-bottom: 0;
+    padding: 0;
+  }
+}
+
+.bio .content main {
+  h2,
+  h3 {
+    font-size: 1rem;
+    margin: 1.5rem 0 0.25rem;
+  }
+
+  ul {
+    padding-left: 0;
+    li {
+      list-style-type: none;
+      padding-left: 2rem;
+
+      &::before {
+        display: inline-block;
+        content: "—";
+        margin-left: -2rem;
+        width: 2rem;
+      }
+    }
+  }
+
+  .end-nav,
+  .begin-nav {
+    ul li::before {
+      display: none;
+    }
+  }
+
+  p {
+    margin-top: 0;
+    padding-left: 0;
+    text-indent: 0;
+  }
+}
+
+.characters .content main {
+  ul {
+    display: block;
+    padding-left: 2rem;
+    margin: 0;
+
+    p {
+      margin: 0;
+    }
+
+    li {
+      display: flex;
+      list-style-type: none;
+      margin: 0;
+
+      li::before {
+        content: "— ";
+        margin-right: 0.5em;
+      }
+    }
+  }
+}
+
+.content main {
   p {
     text-indent: -2rem;
-    margin: 0 0 0.75rem 0;
+    margin: 0 0 1.25rem 0;
     padding-left: 2rem;
     line-height: var(--line-height);
   }
 
-  h1 {
-    text-align: center;
-  }
+  header {
+    margin: 2rem 0 8rem 2rem;
 
-  h2 {
-    margin: 4rem 0 1rem;
-    text-align: center;
-  }
+    .act-name,
+    h1 {
+      text-indent: 0;
+      margin: 0 0 0.5rem;
+      padding: 0;
+    }
 
-  ul {
-    display: block;
-    padding: 0;
-
-    li {
-      list-style-type: none;
-      text-align: center;
-      font-variant: small-caps;
-      font-weight: bold;
+    h1 {
+      text-transform: uppercase;
     }
   }
 
-  p > .idea:first-child > em:first-child {
-    display: block;
-    text-align: center;
-    margin: 1.5rem;
+  h2 {
+    font-size: 120%;
+    margin: 3rem 0 1.5rem;
   }
 
-  p > .idea:first-child > strong:first-child {
-    font-variant: small-caps;
+  p > .idea:first-child {
+    display: block;
+
+    strong {
+      font-variant: small-caps;
+    }
+  }
+
+  p > em:first-child,
+  p > .idea:first-child > em:first-child {
+    display: block;
+    margin-left: 2rem;
+    text-indent: 0;
   }
 
   blockquote {
@@ -67,10 +139,6 @@
     p {
       text-indent: 0;
     }
-  }
-
-  a {
-    //color: black;
   }
 
   figure {
@@ -93,7 +161,7 @@
   }
 
   ul {
-    padding-left: 4rem;
+    padding-left: 0;
   }
 
   ol {
@@ -125,32 +193,20 @@
   }
 }
 
-body.cover,
-.chapter-cover {
+.nb-role-cover main > div,
+.nb-role-break main > div {
   margin: 0;
   padding: 0;
   width: 100vw;
   height: 100vh;
 
-  &.chapter-cover {
-    margin: calc(var(--base-padding) * -2) calc((100vw - var(--content-max-width)) / 2 * -1)
-      calc(var(--base-padding) * 4);
-  }
+  position: absolute;
+  top: 0;
+  left: 0;
 
-  & > a {
-    position: relative;
-    display: block;
-    width: 100vw;
-    height: 100vh;
+  background-color: black;
 
-    background-color: black;
-    font-family: Space, sans-serif;
-
-    align-items: baseline;
-
-    font-size: 8vh;
-    line-height: 9.25vh;
-  }
+  align-items: baseline;
 
   .wrapper {
     margin: 0;
@@ -176,12 +232,12 @@ body.cover,
 
   .top {
     top: 0;
-    z-index: 2;
+    z-index: 1;
   }
 
   .bottom {
     bottom: 0;
-    z-index: 3;
+    z-index: 1;
   }
 
   h1 {
@@ -192,24 +248,28 @@ body.cover,
     padding: 0;
   }
 
-  .autor {
+  .autor,
+  .titul,
+  .nakladatel {
     display: block;
-  }
-
-  .titul {
-    display: block;
-    font-weight: bold;
-  }
-
-  h2 {
-    font-size: 0.8em;
-    font-weight: normal;
-    color: white;
-    margin: 0;
+    font-family: Space, sans-serif;
+    font-size: 8vh;
+    line-height: 9.25vh;
+    text-indent: 0;
     padding: 0;
   }
 
+  .titul {
+    font-weight: bold;
+  }
+
   .nakladatel {
+    font-size: 7vh;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    padding: 0;
+
     font-variant-caps: all-small-caps;
     font-feature-settings: "case" on;
   }
@@ -244,8 +304,6 @@ body.cover,
 
     margin-left: calc(30vw - 30vh);
     margin-bottom: 7vh;
-
-    z-index: 1;
   }
 
   .video {

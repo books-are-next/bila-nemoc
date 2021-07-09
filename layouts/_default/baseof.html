@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="apple-mobile-web-app-title" content="{{ .Title }}">
     <meta name="apple-mobile-web-app-capable" content="yes">
+    {{ with .Params.role }}<meta name="nb-role" content="{{ . }}">{{ end }}
+
+    <meta name="nb-research" content="Tato kniha je dočasně součástí výzkumu, který nám pomůže vylepšit webové knihy. Sbíráme pouze anonymní data o tom, jak čtete knihu. Pro účast ve výzkumu klikněte na tlačítko Souhlasím.">
+    <meta name="nb-research-orgs" content="Městská knihovna v Praze a Masarykova univerzita">
+    <meta name="nb-research-ga" content="UA-187132260-1">
 
     <title>{{ .Title }}</title>
 
@@ -14,6 +19,8 @@
     <link rel="stylesheet" href="{{ $style.Permalink }}" media="screen" integrity="{{ $styleHash.Data.Integrity }}">
   </head>
   <body {{ with .Params.class }}class="{{ . }}"{{ end }}>
+    {{ (.Site.GetPage "/_book").Content }}
+
     {{ block "content" . }}{{ end }}
 
     {{ $scripts := resources.Get "scripts/bundle.js" }}
