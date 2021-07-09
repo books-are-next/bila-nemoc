@@ -21,6 +21,16 @@
   --heading-font: "Space VF";
 }
 
+.feedback {
+  border: 1px solid var(--ui-c-soft);
+  border-radius: var(--border-radius);
+  padding: var(--base-padding);
+
+  p {
+    margin: 0;
+  }
+}
+
 .prose .content main {
   p {
     text-indent: 2rem;
