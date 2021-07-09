@@ -75,7 +75,7 @@ static:
   </li>
 </ol>
 <ul>
-  <li><a href="zivot-a-doba-spisovatele-karla-capka-v-datech.html">Život a doba spisovatele Karla Čapka v datech</a>
+  <li><a href="zivot.html">Život a doba spisovatele Karla Čapka v datech</a>
   </li>
 </ul>
 </nav>
