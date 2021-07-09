@@ -127,9 +127,12 @@
 
     .act-name,
     h1 {
-      text-indent: 0;
       margin: 0 0 0.5rem;
       padding: 0;
+
+      & > .idea:first-child {
+        text-indent: 0;
+      }
     }
 
     h1 {
