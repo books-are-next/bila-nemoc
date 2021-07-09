@@ -3,11 +3,11 @@
   "keywords": [],
   "published": 2021,
   "title": "Bílá nemoc",
-  "identifier": "capek-bila-nemoc-2021-cff498d",
-  "revision": "cff498d",
+  "identifier": "capek-bila-nemoc-2021-ebb5598",
+  "revision": "ebb5598",
   "generatedAt": {
-    "date": "Tue Jun 22 2021 10:09:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1624356553256
+    "date": "Fri Jul 09 2021 06:30:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1625812204801
   },
   "documents": [
     {
@@ -24,177 +24,171 @@
           "index": 0,
           "level": 1,
           "name": "Tiráž",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Karel Čapek",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "predmluva.html",
-      "toc": []
+      "title": "Obraz první",
+      "file": "druhe-1.html",
+      "words": 1200,
+      "chars": 6256,
+      "ideas": 178,
+      "role": "chapter",
+      "order": 9,
+      "prev": "druhe.html",
+      "next": "druhe-2.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz druhý",
+      "file": "druhe-2.html",
+      "words": 584,
+      "chars": 3105,
+      "ideas": 116,
+      "role": "chapter",
+      "order": 10,
+      "prev": "druhe-1.html",
+      "next": "druhe-3.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz druhý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz třetí",
+      "file": "druhe-3.html",
+      "words": 985,
+      "chars": 5488,
+      "ideas": 171,
+      "role": "chapter",
+      "order": 11,
+      "prev": "druhe-2.html",
+      "next": "druhe-4.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz čtvrtý",
+      "file": "druhe-4.html",
+      "words": 332,
+      "chars": 1834,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 12,
+      "prev": "druhe-3.html",
+      "next": "druhe-5.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz čtvrtý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz pátý",
+      "file": "druhe-5.html",
+      "words": 937,
+      "chars": 5363,
+      "ideas": 222,
+      "role": "chapter",
+      "order": 13,
+      "prev": "druhe-4.html",
+      "next": "druhe-6.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz pátý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz šestý",
+      "file": "druhe-6.html",
+      "words": 1265,
+      "chars": 6970,
+      "ideas": 301,
+      "role": "chapter",
+      "order": 14,
+      "prev": "druhe-5.html",
+      "next": "treti.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz šestý",
+          "id": null,
+          "children": []
+        }
+      ]
     },
     {
       "title": "Jednání druhé: Baron Krüg",
-      "file": "jednani-druhe.html",
-      "words": 5276,
-      "chars": 29191,
-      "ideas": 753,
-      "role": "chapter",
-      "order": 3,
-      "prev": "jednani-prvni.html",
-      "next": "jednani-treti.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Jednání druhé: Baron Krüg",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Obraz první",
-              "id": "obraz-první",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "Obraz druhý",
-              "id": "obraz-druhý",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "Obraz třetí",
-              "id": "obraz-třetí",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "Obraz čtvrtý",
-              "id": "obraz-čtvrtý",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "Obraz pátý",
-              "id": "obraz-pátý",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "Obraz šestý",
-              "id": "obraz-šestý",
-              "children": []
-            }
-          ]
-        }
-      ]
+      "file": "druhe.html",
+      "words": 2,
+      "chars": 21,
+      "ideas": 2,
+      "role": "break",
+      "order": 8,
+      "prev": "prvni-5.html",
+      "next": "druhe-1.html",
+      "toc": []
     },
     {
-      "title": "Jednání první: Dvorní rada",
-      "file": "jednani-prvni.html",
-      "words": 8280,
-      "chars": 47952,
-      "ideas": 1109,
-      "role": "chapter",
-      "order": 2,
-      "prev": "osoby.html",
-      "next": "jednani-druhe.html",
+      "title": "Karel Čapek",
+      "file": "index.html",
+      "words": 5,
+      "chars": 24,
+      "ideas": 3,
+      "role": "cover",
+      "order": null,
+      "next": "predmluva.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Jednání první: Dvorní rada",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Obraz první",
-              "id": "obraz-první",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "Obraz druhý",
-              "id": "obraz-druhý",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "Obraz třetí",
-              "id": "obraz-třetí",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "Obraz čtvrtý",
-              "id": "obraz-čtvrtý",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "Obraz pátý",
-              "id": "obraz-pátý",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Jednání třetí: Maršál",
-      "file": "jednani-treti.html",
-      "words": 3494,
-      "chars": 19520,
-      "ideas": 631,
-      "role": "chapter",
-      "order": 4,
-      "prev": "jednani-druhe.html",
-      "next": "zivot-a-doba-spisovatele-karla-capka-v-datech.html",
-      "toc": [
+          "name": "Karel Čapek",
+          "id": null,
+          "children": []
+        },
         {
-          "index": 0,
+          "index": 1,
           "level": 1,
-          "name": "Jednání třetí: Maršál",
-          "id": "chunk1",
+          "name": "Bílá nemoc",
+          "id": null,
           "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Obraz první",
-              "id": "obraz-první",
-              "children": []
-            },
             {
               "index": 2,
               "level": 2,
-              "name": "Obraz druhý",
-              "id": "obraz-druhý",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "Obraz třetí",
-              "id": "obraz-třetí",
+              "name": "N→B",
+              "id": null,
               "children": []
             }
           ]
@@ -204,39 +198,39 @@
     {
       "title": "Osoby",
       "file": "osoby.html",
-      "words": 88,
-      "chars": 553,
-      "ideas": 46,
+      "words": 110,
+      "chars": 525,
+      "ideas": 72,
       "role": "chapter",
       "order": 1,
       "prev": "predmluva.html",
-      "next": "jednani-prvni.html",
+      "next": "prvni.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Osoby",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
               "level": 2,
-              "name": "I. Akt: Dvorní rada",
-              "id": "i-akt-dvorní-rada",
+              "name": "Jednání první — Dvorní rada",
+              "id": "jednání-první--dvorní-rada",
               "children": []
             },
             {
               "index": 2,
               "level": 2,
-              "name": "II. Akt: Baron Krüg",
-              "id": "ii-akt-baron-krüg",
+              "name": "Jednání druhé — Baron Krüg",
+              "id": "jednání-druhé--baron-krüg",
               "children": []
             },
             {
               "index": 3,
               "level": 2,
-              "name": "III. Akt: Maršál",
-              "id": "iii-akt-maršál",
+              "name": "Jednání třetí — Maršál",
+              "id": "jednání-třetí--maršál",
               "children": []
             }
           ]
@@ -258,34 +252,471 @@
           "index": 0,
           "level": 1,
           "name": "Předmluva",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Život a doba spisovatele Karla Čapka v datech",
-      "file": "zivot-a-doba-spisovatele-karla-capka-v-datech.html",
-      "words": 522,
-      "chars": 3149,
-      "ideas": 109,
+      "title": "Obraz první",
+      "file": "prvni-1.html",
+      "words": 345,
+      "chars": 1863,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 3,
+      "prev": "prvni.html",
+      "next": "prvni-2.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz druhý",
+      "file": "prvni-2.html",
+      "words": 3143,
+      "chars": 18208,
+      "ideas": 553,
+      "role": "chapter",
+      "order": 4,
+      "prev": "prvni-1.html",
+      "next": "prvni-3.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz druhý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz třetí",
+      "file": "prvni-3.html",
+      "words": 804,
+      "chars": 4152,
+      "ideas": 147,
       "role": "chapter",
       "order": 5,
-      "prev": "jednani-treti.html",
+      "prev": "prvni-2.html",
+      "next": "prvni-4.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz čtvrtý",
+      "file": "prvni-4.html",
+      "words": 1463,
+      "chars": 8552,
+      "ideas": 279,
+      "role": "chapter",
+      "order": 6,
+      "prev": "prvni-3.html",
+      "next": "prvni-5.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz čtvrtý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz pátý",
+      "file": "prvni-5.html",
+      "words": 2546,
+      "chars": 14878,
+      "ideas": 492,
+      "role": "chapter",
+      "order": 7,
+      "prev": "prvni-4.html",
+      "next": "druhe.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz pátý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jednání první: Dvorní rada",
+      "file": "prvni.html",
+      "words": 2,
+      "chars": 22,
+      "ideas": 2,
+      "role": "break",
+      "order": 2,
+      "prev": "osoby.html",
+      "next": "prvni-1.html",
+      "toc": []
+    },
+    {
+      "title": "Obraz první",
+      "file": "treti-1.html",
+      "words": 440,
+      "chars": 2538,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 16,
+      "prev": "treti.html",
+      "next": "treti-2.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz druhý",
+      "file": "treti-2.html",
+      "words": 2839,
+      "chars": 15613,
+      "ideas": 658,
+      "role": "chapter",
+      "order": 17,
+      "prev": "treti-1.html",
+      "next": "treti-3.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz druhý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obraz třetí",
+      "file": "treti-3.html",
+      "words": 226,
+      "chars": 1234,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 18,
+      "prev": "treti-2.html",
+      "next": "zivot.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obraz třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jednání třetí: Maršál",
+      "file": "treti.html",
+      "words": 2,
+      "chars": 18,
+      "ideas": 2,
+      "role": "break",
+      "order": 15,
+      "prev": "druhe-6.html",
+      "next": "treti-1.html",
+      "toc": []
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "file": "zivot.html",
+      "words": 477,
+      "chars": 3059,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 19,
+      "prev": "treti-3.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Život a doba spisovatele Karla Čapka v datech",
-          "id": "chunk1",
+          "id": null,
           "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1890",
+              "id": "1890",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "1895—1901",
+              "id": "18951901",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "1901—1909",
+              "id": "19011909",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "1907",
+              "id": "1907",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "1909—1915",
+              "id": "19091915",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "1917",
+              "id": "1917",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "1921—1938",
+              "id": "19211938",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "1922",
+              "id": "1922",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "1925",
+              "id": "1925",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "1931",
+              "id": "1931",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "1933",
+              "id": "1933",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "1934",
+              "id": "1934",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "1935",
+              "id": "1935",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "1937",
+              "id": "1937",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "1938",
+              "id": "1938",
+              "children": []
+            },
             {
               "index": 16,
               "level": 2,
               "name": "První vydání knih Karla Čapka",
               "id": "první-vydání-knih-karlanbspčapka",
-              "children": []
+              "children": [
+                {
+                  "index": 17,
+                  "level": 3,
+                  "name": "1917",
+                  "id": "1917-1",
+                  "children": []
+                },
+                {
+                  "index": 18,
+                  "level": 3,
+                  "name": "1918",
+                  "id": "1918",
+                  "children": []
+                },
+                {
+                  "index": 19,
+                  "level": 3,
+                  "name": "1920",
+                  "id": "1920",
+                  "children": []
+                },
+                {
+                  "index": 20,
+                  "level": 3,
+                  "name": "1921",
+                  "id": "1921",
+                  "children": []
+                },
+                {
+                  "index": 21,
+                  "level": 3,
+                  "name": "1922",
+                  "id": "1922-1",
+                  "children": []
+                },
+                {
+                  "index": 22,
+                  "level": 3,
+                  "name": "1923",
+                  "id": "1923",
+                  "children": []
+                },
+                {
+                  "index": 23,
+                  "level": 3,
+                  "name": "1924",
+                  "id": "1924",
+                  "children": []
+                },
+                {
+                  "index": 24,
+                  "level": 3,
+                  "name": "1925",
+                  "id": "1925-1",
+                  "children": []
+                },
+                {
+                  "index": 25,
+                  "level": 3,
+                  "name": "1927",
+                  "id": "1927",
+                  "children": []
+                },
+                {
+                  "index": 26,
+                  "level": 3,
+                  "name": "1928",
+                  "id": "1928",
+                  "children": []
+                },
+                {
+                  "index": 27,
+                  "level": 3,
+                  "name": "1929",
+                  "id": "1929",
+                  "children": []
+                },
+                {
+                  "index": 28,
+                  "level": 3,
+                  "name": "1930",
+                  "id": "1930",
+                  "children": []
+                },
+                {
+                  "index": 29,
+                  "level": 3,
+                  "name": "1931",
+                  "id": "1931-1",
+                  "children": []
+                },
+                {
+                  "index": 30,
+                  "level": 3,
+                  "name": "1932",
+                  "id": "1932",
+                  "children": []
+                },
+                {
+                  "index": 31,
+                  "level": 3,
+                  "name": "1933",
+                  "id": "1933-1",
+                  "children": []
+                },
+                {
+                  "index": 32,
+                  "level": 3,
+                  "name": "1934",
+                  "id": "1934-1",
+                  "children": []
+                },
+                {
+                  "index": 33,
+                  "level": 3,
+                  "name": "1935",
+                  "id": "1935-1",
+                  "children": []
+                },
+                {
+                  "index": 34,
+                  "level": 3,
+                  "name": "1936",
+                  "id": "1936",
+                  "children": []
+                },
+                {
+                  "index": 35,
+                  "level": 3,
+                  "name": "1937",
+                  "id": "1937-1",
+                  "children": []
+                },
+                {
+                  "index": 36,
+                  "level": 3,
+                  "name": "1938",
+                  "id": "1938-1",
+                  "children": []
+                },
+                {
+                  "index": 37,
+                  "level": 3,
+                  "name": "1939",
+                  "id": "1939",
+                  "children": []
+                }
+              ]
             }
           ]
         }
@@ -294,14 +725,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18619,
-      "chars": 106371,
-      "ideas": 2680
+      "words": 18666,
+      "chars": 105729,
+      "ideas": 3623
     },
     "chapters": {
-      "words": 18529,
-      "chars": 105789,
-      "ideas": 2675
+      "words": 18565,
+      "chars": 105062,
+      "ideas": 3609
     }
   }
 }
