@@ -94,6 +94,7 @@
 
     p {
       margin: 0;
+      text-indent: 0;
     }
 
     li {
@@ -227,6 +228,10 @@
   background-color: black;
 
   align-items: baseline;
+
+  p {
+    text-indent: 0;
+  }
 
   .wrapper {
     margin: 0;
