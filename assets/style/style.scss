@@ -37,11 +37,11 @@
     padding-left: 0;
     margin-bottom: 0;
     padding: 0;
-  }
 
-  p > .idea:first-child {
-    display: block;
-    text-indent: 2rem;
+    & > .idea:first-child {
+      display: block;
+      text-indent: 2rem;
+    }
   }
 }
 
@@ -78,6 +78,11 @@
     margin-top: 0;
     padding-left: 0;
     text-indent: 0;
+
+    & > .idea:first-child {
+      display: block;
+      text-indent: 0;
+    }
   }
 }
 
