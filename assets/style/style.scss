@@ -94,6 +94,7 @@
 
     p {
       margin: 0;
+      padding-left: 0;
 
       & > .idea:first-child {
         text-indent: 0;
@@ -237,6 +238,8 @@
   align-items: baseline;
 
   p {
+    padding-left: 0;
+
     & > .idea:first-child {
       text-indent: 0;
     }
