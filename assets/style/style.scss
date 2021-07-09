@@ -101,7 +101,6 @@
 
 .content main {
   p {
-    text-indent: -2rem;
     margin: 0 0 1.25rem 0;
     padding-left: 2rem;
     line-height: var(--line-height);
@@ -129,6 +128,7 @@
 
   p > .idea:first-child {
     display: block;
+    text-indent: -2rem;
 
     strong {
       font-variant: small-caps;
