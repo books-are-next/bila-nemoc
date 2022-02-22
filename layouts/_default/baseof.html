@@ -8,10 +8,6 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     {{ with .Params.role }}<meta name="nb-role" content="{{ . }}">{{ end }}
 
-    <meta name="nb-research" content="Tato kniha je dočasně součástí výzkumu, který nám pomůže vylepšit webové knihy. Sbíráme pouze anonymní data o tom, jak čtete knihu. Pro účast ve výzkumu klikněte na tlačítko Souhlasím.">
-    <meta name="nb-research-orgs" content="Městská knihovna v Praze a Masarykova univerzita">
-    <meta name="nb-research-ga" content="UA-187132260-1">
-
     <title>{{ .Title }}</title>
 
     {{ $style := resources.Get "style/style.scss" | toCSS | minify }}
