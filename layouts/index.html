@@ -1,21 +1,21 @@
 {{ define "content" }}
+{{ $book := (.Site.GetPage "/_book").Params.meta }}
 <main>
-  <div>
-    <div class="top">
-      <h1 class="autor">Karel <br>Čapek</h1>
-    </div>
-    <div class="bottom">
-      <h1 class="titul">Bílá <br>nemoc<br><span class="underline full"></span></h1>
-
-      <h2 class="nakladatel"><br>N→B<br><span class="underline outline"></span></h2>
-    </div>
-
-    <div class="wrapper">
-      <div class="composition">
-            <video id="hemzeni" autoplay="" muted="" playsinline="" loop="">
-                <source src="./images/titulni.mp4" type="video/mp4">
-            </video>
+  <div id="title-wrapper">
+    <div id="title">
+        <h2 class="author">{{ $book.author }}</h2>
+        <h1 class="title">{{ $book.title }}</h1>
       </div>
+
+      <div class="wrapper">
+        <div class="animation">
+              <div class="circles anim-one"></div>
+              <div class="circles anim-two"></div>
+          </div>
+      </div>
+
+      <h3 class="publisher">{{ $book.publisherShort }}</h3>
+      <h3 class="edition">{{ $book.edition }}</h3>
     </div>
   </div>
 </main>

@@ -1,32 +1,26 @@
 {{ define "content" }}
 <div class="content">
-  {{ if eq .Params.role "break" }}
-  <main class="break" aria-hidden="hidden">
-    <div>
-      <div class="top">
-        <p class="autor">{{ .Params.act | replaceRE " " "<br>" | safeHTML }}</p>
-      </div>
-      <div class="bottom">
-        <p class="titul">{{ .Params.name | replaceRE " " "<br>" | safeHTML }}<span class="underline full"></span></p>
-      </div>
-
-      <div class="wrapper">
-        <div class="composition">
-            <video id="hemzeni" autoplay="" muted="" playsinline="" loop="">
-                  <source src="./images/{{ .Params.illustration }}" type="video/mp4">
-              </video>
-        </div>
-      </div>
-    </div>
-  </main>
-  {{ else }}
   <main>
-    <header>
-      {{ with .Params.act }}<p class="act-name">{{ . }} — {{ $.Params.name }}</p>{{ end }}
-      <h1>{{ .Title | markdownify }}</h1>
-    </header>
-    {{ partial "typo.html" .RawContent }}
+    {{ with .Params.promo }}
+      <div id="promo">
+        <div class="promo-light">
+          <a href="{{ .link }}">
+            <img src="{{ .baseUrl }}{{ .logoLight }}" title="{{ .publisher }}" alt="Logo: {{ .publisher }}" style="width: {{ .logoWidth | safeCSS }}">
+          </a>
+        </div>
+        <div class="promo-dark">
+          <a href="{{ .link }}">
+            <img src="{{ .baseUrl }}{{ .logoDark }}" title="{{ .publisher }}" alt="Logo: {{ .publisher }}" style="width: {{ .logoWidth | safeCSS }}">
+          </a>
+        </div>
+        <div class="promo-custom-light"></div>
+        <div class="promo-custom-dark"></div>
+      </div>
+    {{ else }}
+      <h1{{ if .Params.hiddenTitle }} class="hidden-title"{{ end }}>{{ .Title | markdownify }}</h1>
+      {{ with .Params.authors }}<p class="authors">{{ . | markdownify }}</p>{{ end }}
+      {{ partial "typo.html" .RawContent }}
+    {{ end }}
   </main>
-  {{ end }}
 </div>
 {{ end }}
